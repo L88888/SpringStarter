@@ -1,0 +1,38 @@
+server:
+  port: 20210
+
+sxw:
+  elasticsearch:
+    cluster-name: docker-cluster
+    cluster-nodes: 192.168.2.180:9300,192.168.2.181:9300
+    user-name: elastic
+    password: changeme
+
+com:
+  sit:
+    rocketmq:
+      name-server: 182.168.80.20:9876
+      topic: face-ll-0804
+      group-name: default-009
+      consume-thread-max: 10
+      consume-thread-min: 5
+      consume-pattern: old
+
+sit:
+  elasticsearch:
+    clusterNodes: 172.20.32.192:9200
+
+feign:
+  hystrix:
+    enabled: true
+
+hystrix:
+  threadpool:
+    default:
+      coreSize: 50  # 设置线程池大小为50
+
+business:
+  ck:
+    endpoint: http://182.168.80.20:20212
+    username: default
+    password: sailing@123

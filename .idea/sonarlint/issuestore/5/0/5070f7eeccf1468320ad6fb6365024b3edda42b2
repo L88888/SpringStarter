@@ -1,0 +1,12 @@
+
+csquid:S00112b"FDefine and throw a dedicated exception instead of using a generic one.(àÌšşÿÿÿÿ
+nsquid:S00117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§éÚ½úÿÿÿÿ
+nsquid:S00117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—›¦Ùùÿÿÿÿ
+?squid:S1148C"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148\"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148a"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+bsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(Ú°à¬
+bsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(Ú°à¬
+gsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+gsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+bsquid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(Ì©¡

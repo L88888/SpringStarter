@@ -1,0 +1,68 @@
+{
+  "groups": [
+    {
+      "name": "com.sit.rocketmq",
+      "type": "com.sailing.commons.data.mq.starter.RocketMqProperties",
+      "sourceType": "com.sailing.commons.data.mq.starter.RocketMqProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.sit.rocketmq.consume-message-batch-max-size",
+      "type": "java.lang.Integer",
+      "description": "每次消息提交数量",
+      "sourceType": "com.sailing.commons.data.mq.starter.RocketMqProperties",
+      "defaultValue": 1
+    },
+    {
+      "name": "com.sit.rocketmq.consume-pattern",
+      "type": "java.lang.String",
+      "description": "消费模式 old\/new",
+      "sourceType": "com.sailing.commons.data.mq.starter.RocketMqProperties",
+      "defaultValue": "old"
+    },
+    {
+      "name": "com.sit.rocketmq.consume-thread-max",
+      "type": "java.lang.Integer",
+      "description": "客户端消费的最大线程数",
+      "sourceType": "com.sailing.commons.data.mq.starter.RocketMqProperties",
+      "defaultValue": 10
+    },
+    {
+      "name": "com.sit.rocketmq.consume-thread-min",
+      "type": "java.lang.Integer",
+      "description": "客户端消费的最小线程数",
+      "sourceType": "com.sailing.commons.data.mq.starter.RocketMqProperties",
+      "defaultValue": 5
+    },
+    {
+      "name": "com.sit.rocketmq.group-name",
+      "type": "java.lang.String",
+      "description": "生产者与消费者的组名称定义",
+      "sourceType": "com.sailing.commons.data.mq.starter.RocketMqProperties",
+      "defaultValue": "test_producer"
+    },
+    {
+      "name": "com.sit.rocketmq.msg-time-out",
+      "type": "java.lang.Integer",
+      "description": "消息生产超时时间,单位秒",
+      "sourceType": "com.sailing.commons.data.mq.starter.RocketMqProperties",
+      "defaultValue": 5000
+    },
+    {
+      "name": "com.sit.rocketmq.name-server",
+      "type": "java.lang.String",
+      "description": "Name Server 地址，因为是集群部署 所以有多个用 分号 隔开 192.168.80.20:9876;192.168.80.21:9877",
+      "sourceType": "com.sailing.commons.data.mq.starter.RocketMqProperties",
+      "defaultValue": "182.168.80.20:10911"
+    },
+    {
+      "name": "com.sit.rocketmq.topic",
+      "type": "java.lang.String",
+      "description": "主题名称 主题一般是服务器设置好 而不能在代码里去新建topic（ 如果没有创建好，生产者往该主题发送消息 会报找不到topic错误）",
+      "sourceType": "com.sailing.commons.data.mq.starter.RocketMqProperties",
+      "defaultValue": "LL-Test-2020-0627"
+    }
+  ],
+  "hints": []
+}

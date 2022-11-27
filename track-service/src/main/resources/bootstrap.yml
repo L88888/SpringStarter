@@ -1,0 +1,18 @@
+#配置consul信息
+spring:
+  application:
+    name: personnelcar-track-service
+  cloud:
+    consul:
+      host: 172.20.32.154
+      port: 18500
+      enabled: true
+      discovery:
+        enabled: true
+        register: true
+        acl-token: 524ab129-4dd6-0b89-3de7-21d79332b477
+      config:
+        enabled: true   #默认是true --
+        format: PROPERTIES    # 表示consul上面文件的格式 有四种 YAML PROPERTIES KEY-VALUE FILES
+        data-key: configuration  #表示consul上面的KEY值(或者说文件的名字) 默认是data
+        acl-token: 524ab129-4dd6-0b89-3de7-21d79332b477

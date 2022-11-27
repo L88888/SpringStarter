@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.vertx:vertx-core:4.2.0.CR1">
+    <CLASSES>
+      <root url="jar://E:/m2_repository/io/vertx/vertx-core/4.2.0.CR1/vertx-core-4.2.0.CR1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/m2_repository/io/vertx/vertx-core/4.2.0.CR1/vertx-core-4.2.0.CR1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/m2_repository/io/vertx/vertx-core/4.2.0.CR1/vertx-core-4.2.0.CR1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

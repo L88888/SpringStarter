@@ -1,0 +1,12 @@
+
+—squid:S1598"óThis file "ExcelModelListener.java" should be located in "com\sailing\tgl\test" directory, not in "F:\platfromWork\SpringStarter\examples-master\spring-starter\tglraft-rocksdb\src\test\com.sailing.tgl.test"(Do not use dots in directory names).(€ì£²øÿÿÿÿ8Ø¼¼ØÂ/
+Gsquid:S5411?"*Use the primitive boolean expression here.(²¨Ö8Ø¼¼ØÂ/
+[squid:UselessImportCheck
+"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ø¼¼ØÂ/
+qsquid:UselessImportCheck"FRemove this unused import 'java.util.concurrent.CopyOnWriteArrayList'.(ı¦ü8Ø¼¼ØÂ/
+Fsquid:S1148P"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ø¼¼ØÂ/
+¤squid:S11867"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½Î‚²şÿÿÿÿ8Ø¼¼ØÂ/
+Ÿsquid:S1186c"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹à„£8Ø¼¼ØÂ/
+squid:S1186/"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Íƒ8Ø¼¼ØÂ/
+ˆsquid:S1149%"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(»óüâûÿÿÿÿ8Ø¼¼ØÂ/
+Rsquid:S1068#"/Remove this unused "BATCH_COUNT" private field.(¹©½òùÿÿÿÿ8Ø¼¼ØÂ/

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<configuration>
+    <settings>
+        <!--查询结果有空字段值时，依然返回值为空的key-value-->
+        <setting name="callSettersOnNulls" value="true"></setting>
+    </settings>
+    <typeAliases>
+        <typeAlias alias="Integer" type="java.lang.Integer" />
+        <typeAlias alias="Long" type="java.lang.Long" />
+        <typeAlias alias="HashMap" type="java.util.HashMap" />
+        <typeAlias alias="LinkedHashMap" type="java.util.LinkedHashMap" />
+        <typeAlias alias="ArrayList" type="java.util.ArrayList" />
+        <typeAlias alias="LinkedList" type="java.util.LinkedList" />
+    </typeAliases>
+
+    <plugins>
+        <plugin interceptor="com.github.pagehelper.PageInterceptor">
+            <!--4.0以后不需要此配置，自动识别<property name="dialect" value="oracle"/>-->
+            <!--RowBounds参数offset作为PageNum使用 - 默认不使用-->
+            <property name="offsetAsPageNum" value="false"/>
+            <!--RowBounds是否进行count查询 - 默认不查询-->
+            <property name="rowBoundsWithCount" value="false"/>
+            <!--当设置为true的时候，如果pagesize设置为0（或RowBounds的limit=0），就不执行分页，返回全部结果-->
+            <property name="pageSizeZero" value="true"/>
+            <!--分页合理化-->
+            <property name="reasonable" value="false"/>
+            <!--是否支持接口参数来传递分页参数，默认false-->
+            <property name="supportMethodsArguments" value="false"/>
+            <!---->
+            <property name="returnPageInfo" value="none"/>
+        </plugin>
+    </plugins>
+</configuration>

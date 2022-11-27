@@ -1,0 +1,36 @@
+
+Rsquid:S1611|"/Remove the parentheses around the "o" parameter(ªìÌ¹ùÿÿÿÿ8Â¯ ŒÁ/
+nsquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(Çõ”¶øÿÿÿÿ8Â¯ ŒÁ/
+isquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(‚›ûÑ8Â¯ ŒÁ/
+nsquid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.(·÷¼Ãùÿÿÿÿ8Â¯ ŒÁ/
+]
+squid:S899":Do something with the "boolean" value returned by "await".(ÝÛäàùÿÿÿÿ8Â¯ ŒÁ/
+isquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(ÖïÔ8Â¯ ŒÁ/
+nsquid:CommentedOutCodeLine]"<This block of commented-out lines of code should be removed.(›ÌÝ‡þÿÿÿÿ8Â¯ ŒÁ/
+nsquid:CommentedOutCodeLineN"<This block of commented-out lines of code should be removed.(¹åÅÅøÿÿÿÿ8Â¯ ŒÁ/
+isquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(ì›ªã8Â¯ ŒÁ/
+nsquid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(ŽÀÓ®øÿÿÿÿ8Â¯ ŒÁ/
+nsquid:CommentedOutCodeLinem"<This block of commented-out lines of code should be removed.(âÎ¸ýÿÿÿÿÿ8Â¯ ŒÁ/
+Usquid:S1135:"2Complete the task associated to this TODO comment.(¸ÓÉšúÿÿÿÿ8Â¯ ŒÁ/
+nsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(Ä¸çúûÿÿÿÿ8Â¯ ŒÁ/
+isquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(Â”Œä8Â¯ ŒÁ/
+hsquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(¼ø‚+8Â¯ ŒÁ/
+Psquid:S1135*"2Complete the task associated to this TODO comment.(§ƒý°8Â¯ ŒÁ/
+\
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(‡ä½Åúÿÿÿÿ8Â¯ ŒÁ/
+esquid:S2142’"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Â¯ ŒÁ/
+nsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(Ä¸çúûÿÿÿÿ8Â¯ ŒÁ/
+Hsquid:S00108r")Either remove or fill this block of code.(”ý¾8Â¯ ŒÁ/
+nsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(Èäß²ûÿÿÿÿ8Â¯ ŒÁ/
+isquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(öœ‘«8Â¯ ŒÁ/
+Gsquid:S1148“"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Â¯ ŒÁ/
+isquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(¤ž‹¥8Â¯ ŒÁ/
+Isquid:S00108„")Either remove or fill this block of code.(”ý¾8Â¯ ŒÁ/
+squid:S1598"îThis file "StateMachineTest.java" should be located in "com\sailing\tgl\tests" directory, not in "F:\platfromWork\SpringStarter\examples-master\spring-starter\batch-data\src\test\com.sailing.tgl.tests"(Do not use dots in directory names).(ÈÜéã8Â¯ ŒÁ/
+osquid:S3776\"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(“ŸÁ78Â¯ ŒÁ/
+W
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(•‹œö8Â¯ ŒÁ/
+Usquid:S1135"2Complete the task associated to this TODO comment.(«ä÷œýÿÿÿÿ8Â¯ ŒÁ/
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(³¡žÝüÿÿÿÿ8Â¯ ŒÁ/
+V
+squid:S106p"9Replace this use of System.out or System.err by a logger.(•‹œö8Â¯ ŒÁ/

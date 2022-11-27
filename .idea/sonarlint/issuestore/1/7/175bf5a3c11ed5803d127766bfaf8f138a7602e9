@@ -1,0 +1,15 @@
+
+squid:S1598"úThis file "IdGenerator.java" should be located in "com\sailing\tgl\test\atomictest" directory, not in "F:\platfromWork\SpringStarter\examples-master\spring-starter\tglraft\src\test\com.sailing.tgl.test\atomictest"(Do not use dots in directory names).(‡ÆüÊøÿÿÿÿ8½İ¹ØÂ/
+Fsquid:S1148%"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½İ¹ØÂ/
+Fsquid:S11484"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½İ¹ØÂ/
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ºÇÜğ8½İ¹ØÂ/
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(«ãì¶ıÿÿÿÿ8½İ¹ØÂ/
+dsquid:S21423"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8½İ¹ØÂ/
+W
+squid:S8990":Do something with the "boolean" value returned by "await".(‡Ç«8½İ¹ØÂ/
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(¯‡ÃÍ8½İ¹ØÂ/
+[
+squid:S106;"9Replace this use of System.out or System.err by a logger.(Øé§şøÿÿÿÿ8½İ¹ØÂ/

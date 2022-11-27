@@ -1,0 +1,11 @@
+
+Qsquid:S3077".Remove the "volatile" keyword from this field.(êú»àùÿÿÿÿ8İ†·Ø®/
+Fsquid:S1148Q"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8÷ ÑÙ®/
+Usquid:S1135K"2Complete the task associated to this TODO comment.(¡¡™¾ùÿÿÿÿ8÷ ÑÙ®/
+Usquid:S1135G"2Complete the task associated to this TODO comment.(¡¡™¾ùÿÿÿÿ8÷ ÑÙ®/
+Qsquid:S16116"3Remove the parentheses around the "event" parameter(Î«ÿÂ8÷ ÑÙ®/
+}squid:S3008"ZRename this field "CHECKBINLOGDATA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êú»àùÿÿÿÿ8ƒÔ»Ø®/
+Usquid:S1135="2Complete the task associated to this TODO comment.(ÎŞşÿÿÿÿ8÷ ÑÙ®/
+Usquid:S1135C"2Complete the task associated to this TODO comment.(¡¡™¾ùÿÿÿÿ8÷ ÑÙ®/
+isquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(Ìáÿğ8÷ ÑÙ®/
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(êú»àùÿÿÿÿ8İ†·Ø®/

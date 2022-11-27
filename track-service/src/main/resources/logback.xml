@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <include resource="org/springframework/boot/logging/logback/base.xml"/>
+    <logger name="org.springframework.web" level="INFO"/>
+    <appender name="dailyRollingFileAppender" class="com.sit.personcar.track.models.utils.WorldWritableFileAppender">
+        <File>opt/track-service/personnelcar-track-service.log</File>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <FileNamePattern>opt/track-service/personnelcar-track-service.%d{yyyy-MM-dd}.%i.log.gz</FileNamePattern>
+            <maxHistory>30</maxHistory>
+            <!-- 日志总保存量 -->
+            <totalSizeCap>1GB</totalSizeCap>
+            <timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+                <!--文件达到 最大128MB时会被压缩和切割 -->
+                <maxFileSize>128MB</maxFileSize>
+            </timeBasedFileNamingAndTriggeringPolicy>
+        </rollingPolicy>
+        <encoder>
+            <Pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{35} - %msg %n</Pattern>
+            <charset>UTF-8</charset>
+        </encoder>
+    </appender>
+    <root level="info">
+        <appender-ref ref="dailyRollingFileAppender"></appender-ref>
+    </root>
+</configuration>

@@ -1,0 +1,10 @@
+
+œsquid:S1598"ÿThis file "VolatileTest.java" should be located in "com\sailing\tgl\test\volatiletest" directory, not in "F:\platfromWork\SpringStarter\examples-master\spring-starter\tglraft\src\test\com.sailing.tgl.test\volatiletest"(Do not use dots in directory names).(ãæÀÔøÿÿÿÿ
+Csquid:S1612 ",Replace this lambda with a method reference.(Õõ´
+Hsquid:S1612?",Replace this lambda with a method reference.(¨ùêºüÿÿÿÿ
+Xsquid:S3078"AUse an "AtomicInteger" for this field; its operations are atomic.(ˆ´éØ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(°şâÈ
+T
+squid:S106:"9Replace this use of System.out or System.err by a logger.(õÔÅÄıÿÿÿÿ
+ksquid:S00100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊúÊ¨úÿÿÿÿ

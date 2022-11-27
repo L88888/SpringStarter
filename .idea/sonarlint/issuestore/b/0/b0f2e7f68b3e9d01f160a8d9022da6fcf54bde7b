@@ -1,0 +1,5 @@
+
+¤%squid:RedundantThrowsDeclarationCheck"sRemove the declaration of thrown exception 'org.springframework.beans.BeansException' which is a runtime exception.(¯¶…œ
+Qsquid:S2209"5Change this instance-reference to a static reference.(æªù€ÿÿÿÿÿ
+Rsquid:S2696"6Make the enclosing method "static" or remove this set.(ÎÓôÍùÿÿÿÿ
+Qsquid:S2209"5Change this instance-reference to a static reference.(ÎÓôÍùÿÿÿÿ

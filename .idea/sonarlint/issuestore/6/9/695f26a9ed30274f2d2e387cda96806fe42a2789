@@ -1,0 +1,9 @@
+
+Esquid:S3077".Remove the "volatile" keyword from this field.(Òü‡¨
+osquid:S3008""SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¯Ï´üÿÿÿÿ
+Nsquid:S1135F"2Complete the task associated to this TODO comment.(˜æïùÿÿÿÿ
+Asquid:S1948"*Make "peerSets" transient or serializable.(Õ•‘‘
+Esquid:S3077".Remove the "volatile" keyword from this field.(¿Ó›
+Jsquid:S3077"".Remove the "volatile" keyword from this field.(Ê¯Ï´üÿÿÿÿ
+?squid:S1948"(Make "leader" transient or serializable.(Òü‡¨
+=squid:S1948"&Make "self" transient or serializable.(¿Ó›

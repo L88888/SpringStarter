@@ -1,0 +1,9 @@
+
+Esquid:S3077".Remove the "volatile" keyword from this field.(Ê¾¬¯
+ksquid:S3008"TRename this field "RAFTUTILS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¾¬¯
+_squid:S1854S"<Remove this useless assignment to local variable "response".(°Áøœûÿÿÿÿ8ìËøŒÕ/
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Ê¾¬¯
+Psquid:S1481S"-Remove this unused "response" local variable.(°Áøœûÿÿÿÿ8ìËøŒÕ/
+=squid:S1170%"!Make this final field static too.(£”ƒýÿÿÿÿ
+Fsquid:S1148U"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ìËøŒÕ/
+osquid:S00116%"RRename this field "TIMEOUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£”ƒýÿÿÿÿ

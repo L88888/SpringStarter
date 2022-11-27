@@ -1,0 +1,27 @@
+
+T
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(¸˜ôÿüÿÿÿÿ
+Dsquid:S1604"(Make this anonymous inner class a lambda(Ã®­Šùÿÿÿÿ
+T
+squid:S106)"9Replace this use of System.out or System.err by a logger.(±ù†Õþÿÿÿÿ
+T
+squid:S106#"9Replace this use of System.out or System.err by a logger.(¸˜ôÿüÿÿÿÿ
+]squid:S2142/"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+T
+squid:S106N"9Replace this use of System.out or System.err by a logger.(„‚¶Ãûÿÿÿÿ
+T
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ÀÇ¬ãúÿÿÿÿ
+?squid:S1148T"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148]"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S11489"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S11480"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S3010"&Remove this assignment of "semaphore".(ÌÇŒ
+T
+squid:S106,"9Replace this use of System.out or System.err by a logger.(„‚¶Ãûÿÿÿÿ
+Hsquid:S1172>",Remove this unused method parameter "flage".(™À˜»ûÿÿÿÿ
+]squid:S2142S"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+T
+squid:S106F"9Replace this use of System.out or System.err by a logger.(ÀÇ¬ãúÿÿÿÿ
+Dsquid:S1604B"(Make this anonymous inner class a lambda(Ã®­Šùÿÿÿÿ
+T
+squid:S106J"9Replace this use of System.out or System.err by a logger.(±ù†Õþÿÿÿÿ

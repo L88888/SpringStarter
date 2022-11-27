@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.sit.client.device.service.DbSyncMapper">
+
+    <resultMap id="deviceStatusDto" type="com.sit.client.device.entity.DeviceStatusDto">
+        <result column="device_id" property="deviceId"/>
+        <result column="status" property="status"/>
+    </resultMap>
+
+    <!-- 查询设备状态 -->
+    <select id="queryDeviceStatus" resultMap="deviceStatusDto">
+        select
+        device_id,
+        device_status as status
+        from device_info
+    </select>
+
+    <!-- 清空状态临时表数据 -->
+    <delete id="clearDeviceStatusTemp">
+        truncate table device_status_tmp
+    </delete>
+
+    <!-- 写入数据到状态临时表 -->
+    <insert id="insertDeviceStatusTemp" parameterType="com.sit.client.device.entity.DeviceStatusDto">
+        insert into device_status_tmp(DEVICE_ID, STATUS, storageTime,
+        deviceName,deviceArea,longitude,latitude,cameraType,cameraName)
+        values  (#{deviceId, jdbcType=VARCHAR},
+         #{status, jdbcType=VARCHAR},
+         current_timestamp(0),
+         #{deviceName, jdbcType=VARCHAR},
+         #{deviceArea, jdbcType=VARCHAR},
+         #{longitude, jdbcType=VARCHAR},
+         #{latitude, jdbcType=VARCHAR},
+         #{cameraType, jdbcType=VARCHAR},
+         #{cameraName, jdbcType=VARCHAR})
+    </insert>
+
+    <!-- 同步设备状态临时表至设备信息表 -->
+    <update id="syncDeviceStatus">
+        update device_info di set device_status = dst.status
+        from device_status_tmp dst
+        where di.device_id = dst.device_id
+    </update>
+
+    <!-- 同步设备状态临时表至设备信息表 -->
+    <update id="syncDeviceStatusZtxx">
+        update b_sssb_sbdqztxx bss set sbztlx = t1.status, gxsj = to_char(now(), 'yyyy-MM-dd HH24:mi:ss')
+        from (
+            select
+                dst.device_id as device_id ,
+                max(bssz.gxsj),
+                max(bssz.xh) as xh,
+                dst.status
+            from b_sssb_sbdqztxx bssz
+            inner join device_status_tmp dst on bssz.sbbh = dst.device_id
+            group by dst.device_id,dst.status
+        ) t1
+        where t1.xh = bss.xh
+    </update>
+
+    <!-- 同步设备状态临时表至设备信息表 -->
+    <update id="syncDeviceStatusRelation">
+        update device_relation dr set device_status = dst.status
+        from device_status_tmp dst
+        where dr.device_id = dst.device_id
+        and dr.device_status != dst.status
+    </update>
+
+
+</mapper>

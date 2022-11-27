@@ -1,0 +1,10 @@
+
+Ksquid:S1068"/Remove this unused "currentNode" private field.(¸û—âþÿÿÿÿ
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¸û—âþÿÿÿÿ
+hsquid:S1192"QUse already-defined constant 'currentNode' instead of duplicating its value here.(­¹žÕ
+\squid:UselessImportCheck
+"8Remove this unused import 'com.tgl.raft.util.RaftUtils'.(«Â¿«
+?squid:S1148Y"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¸û—âþÿÿÿÿ
+gsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(œ‚³Îýÿÿÿÿ
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(­¹žÕ

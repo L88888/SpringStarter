@@ -1,0 +1,19 @@
+
+dsquid:S2142D"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8·ŠáÖ©/
+usquid:S3776K"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(¹©äòûÿÿÿÿ8·ŠáÖ©/
+psquid:UselessImportCheck"ERemove this unused import 'java.util.concurrent.locks.ReentrantLock'.(òªø8·ŠáÖ©/
+csquid:HiddenFieldCheck´"9Rename "size" which hides the field declared at line 111.(òã³ñ8·ŠáÖ©/
+Fsquid:S1148E"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8·ŠáÖ©/
+isquid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.( Í¥é8¯İùÖ©/
+Fsquid:S11488"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8·ŠáÖ©/
+|squid:UselessImportCheck"QRemove this unused import 'com.zaxxer.hikari.hibernate.HikariConnectionProvider'.(›‰à—8·ŠáÖ©/
+ksquid:UselessImportCheck"@Remove this unused import 'java.util.concurrent.CountDownLatch'.(¤ƒô§8·ŠáÖ©/
+wsquid:HiddenFieldCheckv"IRename "preparedStatementNode" which hides the field declared at line 47.(¿æÜÎÿÿÿÿÿ8·ŠáÖ©/
+hsquid:HiddenFieldCheck±">Rename "connection" which hides the field declared at line 51.(ïÆ¥8·ŠáÖ©/
+Fsquid:S1148Z"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8·ŠáÖ©/
+Gsquid:S1148"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8·ŠáÖ©/
+nsquid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(“ôÛØúÿÿÿÿ8·ŠáÖ©/
+gsquid:HiddenFieldChecku">Rename "connection" which hides the field declared at line 51.(†Ùáı8âğàÖ©/
+•squid:S1192˜"qDefine a constant instead of duplicating this literal "å…³é—­æ•°æ®åº“è¿æ¥å¼‚å¸¸ï¼Œå¼‚å¸¸ä¿¡æ¯ä¸º:{}" 4 times.(¾¿Ã¤ÿÿÿÿÿ8·ŠáÖ©/
+osquid:UselessImportCheck"?Remove this unused import 'com.zaxxer.hikari.HikariDataSource'.(¦åõ³ûÿÿÿÿ8ˆ£¯Ö©/
+Gsquid:S1148Ö"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8·ŠáÖ©/

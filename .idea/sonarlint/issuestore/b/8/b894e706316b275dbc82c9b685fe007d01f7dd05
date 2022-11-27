@@ -1,0 +1,7 @@
+
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¸¦Ğüÿÿÿÿ8òÆâ¬/
+lsquid:S2095."NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(‚³şã8µñ·â¬/
+Fsquid:S11485"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8µñ·â¬/
+d
+squid:S899)"BDo something with the "boolean" value returned by "createNewFile".(½½¢µüÿÿÿÿ8Áôíë¬/
+Qsquid:S3077".Remove the "volatile" keyword from this field.(¸¦Ğüÿÿÿÿ8òÆâ¬/

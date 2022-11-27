@@ -1,0 +1,28 @@
+
+œsquid:S1598"øThis file "ConCurrentListOperation.java" should be located in "com\sailing\tgl\test" directory, not in "F:\platfromWork\SpringStarter\examples-master\spring-starter\tglraft-rocksdb\src\test\com.sailing.tgl.test"(Do not use dots in directory names).(€ì£²øÿÿÿÿ8Ù »ØÂ/
+fsquid:S2259h"CA "NullPointerException" could be thrown; "jedis" is nullable here.(½š†àûÿÿÿÿ8Ù »ØÂ/
+Psquid:S1612°",Replace this lambda with a method reference.(éìÍÉÿÿÿÿÿ8Ù »ØÂ/
+Osquid:S11531"1Directly append the argument of String.valueOf().(Òù¯Ş8Ù »ØÂ/
+Fsquid:S1148f"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ù »ØÂ/
+Gsquid:S1148ˆ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ù »ØÂ/
+Gsquid:S1148µ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ù »ØÂ/
+Fsquid:S1172"(Remove this unused method parameter "o".(ÂÚà8Ù »ØÂ/
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(Ü¿˜×ûÿÿÿÿ8Ù »ØÂ/
+Hsquid:S001084")Either remove or fill this block of code.(”ı¾8Ù »ØÂ/
+Wsquid:S1854K"9Remove this useless assignment to local variable "start".(’Ã¼8Ù »ØÂ/
+Msquid:S2093["*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Ù »ØÂ/
+V
+squid:S106z"9Replace this use of System.out or System.err by a logger.(¸š®ƒ8Ù »ØÂ/
+Xsquid:S4719"9Replace charset name argument with StandardCharsets.UTF_8(ëá¦í8Ù »ØÂ/
+W
+squid:S106„"9Replace this use of System.out or System.err by a logger.(¤çÑÁ8Ù »ØÂ/
+\
+squid:S106†"9Replace this use of System.out or System.err by a logger.(¾·óèşÿÿÿÿ8Ù »ØÂ/
+]squid:S4719†"9Replace charset name argument with StandardCharsets.UTF_8(¾·óèşÿÿÿÿ8Ù »ØÂ/
+Hsquid:S1481K"*Remove this unused "start" local variable.(’Ã¼8Ù »ØÂ/
+nsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(µ½ÎÚùÿÿÿÿ8Ù »ØÂ/
+nsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(»ÎÎşÿÿÿÿ8Ù »ØÂ/
+isquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(÷¢šÆ8Ù »ØÂ/
+isquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(·•§œ8Ù »ØÂ/
+nsquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8Ù »ØÂ/

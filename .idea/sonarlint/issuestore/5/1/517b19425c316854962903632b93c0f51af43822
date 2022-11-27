@@ -1,0 +1,10 @@
+
+„"squid:ClassVariableVisibilityCheck"WMake maxPoolSize a static final constant or non-public and provide accessors if needed.(´á€h
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(œ‡ñå
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(»‘–“
+@squid:S1444")Make this "public static cpu" field final(ÍùïÍ
+}"squid:ClassVariableVisibilityCheck"OMake cpu a static final constant or non-public and provide accessors if needed.(ÍùïÍ
+Gsquid:S1444"1Make this "public static maxPoolSize" field final(´á€h
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ž˜¸«ûÿÿÿÿ
+?squid:S1148'"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+]squid:S2142&"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€

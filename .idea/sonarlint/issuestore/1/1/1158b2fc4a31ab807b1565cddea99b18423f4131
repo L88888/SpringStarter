@@ -1,0 +1,16 @@
+
+V
+squid:S106F"9Replace this use of System.out or System.err by a logger.(üó‚ù8ôÊÍæ¬/
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¸¦Ğüÿÿÿÿ8ôÊÍæ¬/
+Fsquid:S1148M"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ôÊÍæ¬/
+psquid:S3776'"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Í—»8ôÊÍæ¬/
+|squid:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªèë üÿÿÿÿ8ôÊÍæ¬/
+\squid:S4719="9Replace charset name argument with StandardCharsets.UTF_8(”ù¡¢ÿÿÿÿÿ8ôÊÍæ¬/
+Esquid:S1168„"&Return an empty array instead of null.(¥¹ï8Ú´‹ç¬/
+\squid:S4719E"9Replace charset name argument with StandardCharsets.UTF_8(ÂÀÛìúÿÿÿÿ8ôÊÍæ¬/
+qsquid:S2095/"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(Àê²Æûÿÿÿÿ8ôÊÍæ¬/
+Qsquid:S3077".Remove the "volatile" keyword from this field.(¸¦Ğüÿÿÿÿ8ôÊÍæ¬/
+Msquid:S2093e"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Õ÷ƒç¬/
+Fsquid:S1148~"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ú´‹ç¬/
+Fsquid:S1148s"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8…Ñæ¬/
+Msquid:S1172'"/Remove this unused method parameter "fileData".(Í—»8ôÊÍæ¬/

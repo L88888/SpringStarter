@@ -1,0 +1,20 @@
+
+Msquid:S1066+"/Merge this if statement with the enclosing one.(õù·ƒ8ßâ¹ØÂ/
+®squid:S1598"ŠThis file "ConCurrentListOperation.java" should be located in "com\sailing\tgl\test\volatiletest" directory, not in "F:\platfromWork\SpringStarter\examples-master\spring-starter\tglraft\src\test\com.sailing.tgl.test\volatiletest"(Do not use dots in directory names).(ãæÀÔøÿÿÿÿ8ßâ¹ØÂ/
+Osquid:S1153-"1Directly append the argument of String.valueOf().(äºÃã8ßâ¹ØÂ/
+esquid:UselessImportCheck":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş8ßâ¹ØÂ/
+Fsquid:S1148S"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ßâ¹ØÂ/
+Fsquid:S1172"(Remove this unused method parameter "o".(ÂÚà8ßâ¹ØÂ/
+V
+squid:S106-"9Replace this use of System.out or System.err by a logger.(äºÃã8ßâ¹ØÂ/
+Hsquid:S001080")Either remove or fill this block of code.(”ı¾8ßâ¹ØÂ/
+Wsquid:S1854A"9Remove this useless assignment to local variable "start".(’Ã¼8ßâ¹ØÂ/
+Wsquid:S4719L"9Replace charset name argument with StandardCharsets.UTF_8(ëá¦í8ßâ¹ØÂ/
+V
+squid:S106O"9Replace this use of System.out or System.err by a logger.(¤çÑÁ8ßâ¹ØÂ/
+[
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(¾·óèşÿÿÿÿ8ßâ¹ØÂ/
+\squid:S4719Q"9Replace charset name argument with StandardCharsets.UTF_8(¾·óèşÿÿÿÿ8ßâ¹ØÂ/
+Hsquid:S1481A"*Remove this unused "start" local variable.(’Ã¼8ßâ¹ØÂ/
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(µ½ÎÚùÿÿÿÿ8ßâ¹ØÂ/
+nsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(»ÎÎşÿÿÿÿ8ßâ¹ØÂ/

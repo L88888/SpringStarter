@@ -1,0 +1,37 @@
+
+”squid:S1319"}The type of the "queue" object should be an interface such as "Queue" rather than the implementation "ConcurrentLinkedQueue".(ü©Êä
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(áý™êþÿÿÿÿ
+­%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(áý™êþÿÿÿÿ
+…"squid:ClassVariableVisibilityCheck"RMake isOver a static final constant or non-public and provide accessors if needed.(ñ±­äüÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÎÑƒáþÿÿÿÿ
+4squid:S2386"Make this member "protected".(ü©Êä
+?squid:S1604"(Make this anonymous inner class a lambda(¼×¨™
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ü©Êä
+gsquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(ÎÑƒáþÿÿÿÿ
+Bsquid:S1444"+Make this "public static queue" field final(ü©Êä
+2squid:S3626/"Remove this redundant jump.(ûÁÝ…
+bsquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(“â™Š
+ysquid:S1488k"]Immediately return this expression instead of assigning it to the temporary variable "time2".(ßïôþýÿÿÿÿ
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Ú¦Ž†ýÿÿÿÿ
+jsquid:S00101r"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(…ÙòÇþÿÿÿÿ
+nsquid:S00117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Þœ“Âüÿÿÿÿ
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¯¤²Œüÿÿÿÿ
+bsquid:CommentedOutCodeLine}"<This block of commented-out lines of code should be removed.(–˜¡Ò
+]squid:S2142-"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+ysquid:S1488|"]Immediately return this expression instead of assigning it to the temporary variable "time2".(ßïôþýÿÿÿÿ
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ú¦Ž†ýÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"QMake queue a static final constant or non-public and provide accessors if needed.(ü©Êä
+osquid:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(ùþ®&
+Hsquid:S1444",Make this "public static isOver" field final(ñ±­äüÿÿÿÿ
+nsquid:S00117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¿Âìùÿÿÿÿ
+]squid:S2142M"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+gsquid:CommentedOutCodeLinea"<This block of commented-out lines of code should be removed.(ÎÑƒáþÿÿÿÿ
+2squid:S3626O"Remove this redundant jump.(ûÁÝ…
+²%squid:RedundantThrowsDeclarationCheck"€Remove the declaration of thrown exception 'java.util.concurrent.ExecutionException', as it cannot be thrown from method's body.(â–â‘
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Îüßæ
+gsquid:CommentedOutCodeLineZ"<This block of commented-out lines of code should be removed.(€¢óðÿÿÿÿÿ
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯¤²Œüÿÿÿÿ
+bsquid:CommentedOutCodeLinel"<This block of commented-out lines of code should be removed.(–˜¡Ò
+bsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(“â™Š
+Dsquid:S1604="(Make this anonymous inner class a lambda(ôâ…Æþÿÿÿÿ
+usquid:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô¿Âìùÿÿÿÿ

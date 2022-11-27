@@ -1,0 +1,9 @@
+#配置consul信息
+spring:
+  application:
+    name: extractiontool
+sit:
+  elasticsearch:
+    clusterNodes: 172.20.32.192:9200
+#    userName:
+#    password:

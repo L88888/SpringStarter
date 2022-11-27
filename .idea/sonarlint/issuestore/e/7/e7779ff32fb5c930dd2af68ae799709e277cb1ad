@@ -1,0 +1,24 @@
+
+?squid:S11481"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+T
+squid:S106k"9Replace this use of System.out or System.err by a logger.(‘Èÿùÿÿÿÿ
+]squid:S1075{"ARefactor your code to get this URI from a customizable parameter.(¹Æñˆùÿÿÿÿ
+gsquid:CommentedOutCodeLinej"<This block of commented-out lines of code should be removed.(Ş¼ßúÿÿÿÿ
+esquid:S2095S"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(‚³şã
+?squid:S1148@"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Ssquid:S1854P"=Remove this useless assignment to local variable "writeData".(àõ¬*
+T
+squid:S106("9Replace this use of System.out or System.err by a logger.(®‚†÷øÿÿÿÿ
+dsquid:S2095""MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(³×Ï†
+Dsquid:S1481P".Remove this unused "writeData" local variable.(àõ¬*
+gsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(©½Ù“ùÿÿÿÿ
+O
+squid:S106+"9Replace this use of System.out or System.err by a logger.(¦Àö³
+Vsquid:S4719k":Replace Charset.forName() call with StandardCharsets.UTF_8(‘Èÿùÿÿÿÿ
+]squid:S1075|"ARefactor your code to get this URI from a customizable parameter.(ÕÈ€Éıÿÿÿÿ
+^squid:S1075"ARefactor your code to get this URI from a customizable parameter.(åí§¨ùÿÿÿÿ
+?squid:S1148p"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+T
+squid:S106/"9Replace this use of System.out or System.err by a logger.(‹ÂÖüÿÿÿÿ
+gsquid:CommentedOutCodeLineQ"<This block of commented-out lines of code should be removed.(¥¨‚Şùÿÿÿÿ
+jsquid:S2095#"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(„úù‚ùÿÿÿÿ

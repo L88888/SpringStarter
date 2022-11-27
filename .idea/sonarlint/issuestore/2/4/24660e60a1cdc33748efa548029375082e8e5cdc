@@ -1,0 +1,6 @@
+
+|squid:UselessImportCheck	"LRemove this unused import 'org.springframework.scheduling.annotation.Async'.(İë€Ûúÿÿÿÿ8®ÂÄô¬/
+asquid:S1155X">Use isEmpty() to check whether the collection is empty or not.(¦½ƒêÿÿÿÿÿ8ÄÕ²ô¬/
+Fsquid:S1148M"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ï¡â¬/
+dsquid:S2142L"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ï¡â¬/
+dsquid:S1075;"ARefactor your code to get this URI from a customizable parameter.(ò’Á‚úÿÿÿÿ8ÙÜ›ô¬/

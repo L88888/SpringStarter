@@ -1,0 +1,14 @@
+
+^squid:S3252™"FUse static access with "com.alibaba.fastjson.JSON" for "toJSONString".(É›²—
+gsquid:CommentedOutCodeLine}"<This block of commented-out lines of code should be removed.(ô¥•ªüÿÿÿÿ
+]squid:S2142Y"FEither re-interrupt this method or rethrow the "InterruptedException".(‘í†
+csquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(áÒ´ý
+osquid:S00117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çäÓÿÿÿÿÿ
+]squid:S21420"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+?squid:S1148Z"#Use a logger to log this exception.(Âþÿâûÿÿÿÿ
+hsquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(êéÓùÿÿÿÿ
+gsquid:CommentedOutCodeLine{"<This block of commented-out lines of code should be removed.(¾Þÿóþÿÿÿÿ
+@squid:S1148¡"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+csquid:S3252œ"FUse static access with "com.alibaba.fastjson.JSON" for "toJSONString".(çäÓÿÿÿÿÿ
+asquid:S2583¹"DChange this condition so that it does not always evaluate to "false"(ç×Çûÿÿÿÿ
+?squid:S11481"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

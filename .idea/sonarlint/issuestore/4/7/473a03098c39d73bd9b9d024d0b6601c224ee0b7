@@ -1,0 +1,45 @@
+
+V
+squid:S106+"9Replace this use of System.out or System.err by a logger.(îÒƒÔ8ÈÙ¬à/
+Â%squid:RedundantThrowsDeclarationCheck"„Remove the declaration of thrown exception 'com.drew.imaging.ImageProcessingException' which is a subclass of 'java.lang.Exception'.(‹°¶¯øÿÿÿÿ8ÈÙ¬à/
+[
+squid:S1068"9Replace this use of System.out or System.err by a logger.(†¸È‡øÿÿÿÿ8ÈÙ¬à/
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(‹°¶¯øÿÿÿÿ8ÈÙ¬à/
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(”¡ıÂüÿÿÿÿ8ÈÙ¬à/
+Fsquid:S1481p"(Remove this unused "res" local variable.(˜€·8éœÜ¬à/
+V
+squid:S1066"9Replace this use of System.out or System.err by a logger.(‹óÁ“8ÈÙ¬à/
+[
+squid:S106;"9Replace this use of System.out or System.err by a logger.(Ô€ˆ»ÿÿÿÿÿ8ÈÙ¬à/
+}squid:S1488_"_Immediately return this expression instead of assigning it to the temporary variable "gps_dou".(ˆ²ç8ÈÙ¬à/
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(·³î‰ÿÿÿÿÿ8ÈÙ¬à/
+V
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ÒÊÃŒ8ÈÙ¬à/
+usquid:S00117m"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¥ª·ıÿÿÿÿ8ÈÙ¬à/
+esquid:S3027R"GPut single-quotes around '\"' to use the faster "indexOf(char)" method.(Ÿİ¢É8ÈÙ¬à/
+[
+squid:S106D"9Replace this use of System.out or System.err by a logger.(º€œÿÿÿÿÿ8ÈÙ¬à/
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(‹°¶¯øÿÿÿÿ8ÈÙ¬à/
+tsquid:S3457!"Q%n should be used in place of \n to produce the platform-specific line separator.(·³î‰ÿÿÿÿÿ8 ŒÚ¬à/
+jsquid:S3027Q"GPut single-quotes around 'Â°' to use the faster "indexOf(char)" method.(—ûú®ùÿÿÿÿ8ÖüÖ¬à/
+dsquid:S3027R"FPut single-quotes around ''' to use the faster "indexOf(char)" method.(Ÿİ¢É8ÈÙ¬à/
+esquid:S3027P"GPut single-quotes around 'Â°' to use the faster "indexOf(char)" method.(©—¨»8ÖüÖ¬à/
+]squid:S1118":Add a private constructor to hide the implicit public one.(Î×†Ûıÿÿÿÿ8ÈÙ¬à/
+©%squid:RedundantThrowsDeclarationCheckm"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ğ¥ª·ıÿÿÿÿ8ı©İ¬à/
+isquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(§´œ÷8éœÜ¬à/
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶’©”8ÈÙ¬à/
+psquid:S00117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ²ç8ÈÙ¬à/
+[
+squid:S106r"9Replace this use of System.out or System.err by a logger.(ÛÄéËşÿÿÿÿ8ÈÙ¬à/
+V
+squid:S106:"9Replace this use of System.out or System.err by a logger.(¥ÖŒ·8ÖüÖ¬à/
+hsquid:CommentedOutCodeLine{"<This block of commented-out lines of code should be removed.(ˆÇ’M8éœÜ¬à/
+U
+squid:S106>"9Replace this use of System.out or System.err by a logger.(êûô\8ÖüÖ¬à/
+isquid:S3027Q"FPut single-quotes around ''' to use the faster "indexOf(char)" method.(—ûú®ùÿÿÿÿ8ÖüÖ¬à/
+usquid:S00117m"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¥ª·ıÿÿÿÿ8ÈÙ¬à/
+[
+squid:S106?"9Replace this use of System.out or System.err by a logger.(€îøÜıÿÿÿÿ8ÈÙ¬à/

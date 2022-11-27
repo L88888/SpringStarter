@@ -1,0 +1,1845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7a95659-7dc6-416f-89c7-a93dbd693cef" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/nativeCache/nativeCache.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativeCache/ README.md" beforeDir="false" afterPath="$PROJECT_DIR$/nativeCache/ README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativeCache/example/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativeCache/example/src/main/java/com/tgl/example/app/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativeCache/example/src/main/java/com/tgl/example/cacheconfig/caffeine/CacheType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativeCache/example/src/main/java/com/tgl/example/cacheconfig/caffeine/CaffeineCacheConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativeCache/example/src/main/java/com/tgl/example/cacheconfig/redis/CacheMessageListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativeCache/example/src/main/java/com/tgl/example/cacheconfig/redis/RedisUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativeCache/example/src/main/java/com/tgl/example/device/entity/DeviceEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativeCache/example/src/main/java/com/tgl/example/device/server/DeviceBatchInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativeCache/example/src/main/java/com/tgl/example/device/server/DeviceInfoCache.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativeCache/example/src/main/java/com/tgl/example/device/server/DeviceInfoCacheManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativeCache/example/src/main/java/com/tgl/example/device/ws/TestWs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativeCache/example/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativeCache/example/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativeCache/example/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativeCache/example/src/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativeCache/example/src/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativeCache/example/src/test/com.sailing.tgl.tests/CacheLine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativeCache/example/src/test/com.sailing.tgl.tests/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativeCache/example/src/test/com.sailing.tgl.tests/device/TestDeviceCache.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/batch-data/target/" />
+    <ignored path="$PROJECT_DIR$/tglraft-rocksdb/target/" />
+    <ignored path="$PROJECT_DIR$/mq-starter/target/" />
+    <ignored path="$PROJECT_DIR$/application-example/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/tglraft/target/" />
+    <ignored path="$PROJECT_DIR$/es-starter/target/" />
+    <ignored path="$PROJECT_DIR$/keeplive/target/" />
+    <ignored path="$PROJECT_DIR$/binlogevent/target/" />
+    <ignored path="$PROJECT_DIR$/designpattern/target/" />
+    <ignored path="$PROJECT_DIR$/example/target/" />
+    <ignored path="$PROJECT_DIR$/queue-example/target/" />
+    <ignored path="$PROJECT_DIR$/data-extraction-tool/target/" />
+    <ignored path="$PROJECT_DIR$/nativeCache/example/target/" />
+    <ignored path="$PROJECT_DIR$/nativeCache/target/" />
+    <ignored path="$PROJECT_DIR$/minio/target/" />
+    <ignored path="$PROJECT_DIR$/example-rocksdb/target/" />
+    <ignored path="$PROJECT_DIR$/ckHelper/target/" />
+    <ignored path="$PROJECT_DIR$/track-service/target/" />
+    <ignored path="$PROJECT_DIR$/rpc-client-example/target/" />
+    <ignored path="$PROJECT_DIR$/example-controller/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application-example/src/main/test/com/sailing/reflex/wait/CountDownLatchTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3410">
+              <caret line="121" column="13" selection-start-line="121" selection-start-column="13" selection-end-line="121" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application-example/src/main/test/com/test/examples/Examples.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1271">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application-example/src/main/test/com/test/examples/KafkaConsumptionMonitoring.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="40" column="28" lean-forward="true" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/Program Files/Java/jdk1.8.0_251/src.zip!/java/util/HashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3255">
+              <caret line="137" column="13" selection-start-line="137" selection-start-column="13" selection-end-line="137" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/Program Files/Java/jdk1.8.0_251/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15841">
+              <caret line="579" column="7" selection-start-line="579" selection-start-column="7" selection-end-line="579" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tglraft/src/main/java/com/tgl/raft/concurrent/TglRaftThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>printf</find>
+      <find>okhttp3</find>
+      <find>clickhouse</find>
+      <find>repositories</find>
+      <find>tabSeparatedString</find>
+      <find>LOG</find>
+      <find>inheritableThreadLocals</find>
+      <find>projectlombok</find>
+      <find>ClickHouseResponse</find>
+      <find>cg</find>
+      <find>configs</find>
+      <find>S90-65000313</find>
+      <find>serviceId</find>
+      <find>ck</find>
+      <find>//</find>
+      <find>senderId</find>
+      <find>kafka</find>
+      <find>Fiber</find>
+      <find>register</find>
+      <find>gson</find>
+      <find>redis</find>
+      <find>google</find>
+      <find>DeviceStatusDto</find>
+      <find>insertDeviceStatusTemp</find>
+      <find>testWhileIdle</find>
+      <find>configureMessageConverters</find>
+      <find>linkFirst</find>
+      <find>execute</find>
+      <find>Connection closed!</find>
+      <find>Connection closed! the address is</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>MalformedPolicy</replace>
+      <replace>println</replace>
+      <replace>log</replace>
+      <replace>track</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/nativeCache" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/designpattern/src/main/java/com/tgl/designpattern/service/responsibilitychain/inherit/FilterOnes.java" />
+        <option value="$PROJECT_DIR$/designpattern/src/main/java/com/tgl/designpattern/service/responsibilitychain/inherit/FilterThrees.java" />
+        <option value="$PROJECT_DIR$/designpattern/src/main/java/com/tgl/designpattern/service/responsibilitychain/inherit/FilterTos.java" />
+        <option value="$PROJECT_DIR$/designpattern/src/main/java/com/tgl/designpattern/service/responsibilitychain/inherit/DynamicChainAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/designpattern/src/main/java/com/tgl/designpattern/app/RdbmsApplication.java" />
+        <option value="$PROJECT_DIR$/designpattern/src/main/java/com/tgl/designpattern/service/responsibilitychain/inherit/MyFilterChain.java" />
+        <option value="$PROJECT_DIR$/example-controller/src/main/java/com/sit/webexample/unifiedpackaging/ResponseAdvice.java" />
+        <option value="$PROJECT_DIR$/example-controller/src/main/java/com/sit/webexample/unifiedpackaging/ResultEnum.java" />
+        <option value="$PROJECT_DIR$/example-controller/src/main/java/com/sit/webexample/unifiedpackaging/IResult.java" />
+        <option value="$PROJECT_DIR$/example-controller/src/main/java/com/sit/webexample/unifiedpackaging/Result.java" />
+        <option value="$PROJECT_DIR$/example-controller/src/main/java/com/sit/webexample/unifiedpackaging/ISitResult.java" />
+        <option value="$PROJECT_DIR$/example-controller/src/main/java/com/sit/webexample/unifiedpackaging/SitResultEnum.java" />
+        <option value="$PROJECT_DIR$/example-controller/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/example-controller/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/example-controller/pom.xml" />
+        <option value="$PROJECT_DIR$/example-controller/src/main/java/com/sit/webexample/user/entity/UserDTO.java" />
+        <option value="$PROJECT_DIR$/example-controller/src/main/java/com/sit/webexample/unifiedpackaging/SitWebMvcConfiguration.java" />
+        <option value="$PROJECT_DIR$/example-controller/src/main/java/com/sit/webexample/app/Application.java" />
+        <option value="$PROJECT_DIR$/example-controller/src/main/java/com/sit/webexample/unifiedpackaging/SitResponseAdvice.java" />
+        <option value="$PROJECT_DIR$/example-controller/src/main/java/com/sit/webexample/exception/ForbiddenException.java" />
+        <option value="$PROJECT_DIR$/example-controller/src/main/java/com/sit/webexample/exception/BusinessException.java" />
+        <option value="$PROJECT_DIR$/example-controller/src/main/java/com/sit/webexample/unifiedpackaging/SitResult.java" />
+        <option value="$PROJECT_DIR$/example-controller/src/main/java/com/sit/webexample/exception/ExceptionAdvice.java" />
+        <option value="$PROJECT_DIR$/example-controller/src/main/java/com/sit/webexample/user/ws/UserController.java" />
+        <option value="$PROJECT_DIR$/example-controller/src/main/java/com/sit/webexample/user/server/DataDistribute.java" />
+        <option value="$PROJECT_DIR$/queue-example/src/readme.md" />
+        <option value="$PROJECT_DIR$/queue-example/src/main/java/com/sit/client/queue/event/DeviceStatusEvent.java" />
+        <option value="$PROJECT_DIR$/queue-example/src/main/java/com/sit/client/queue/event/DeviceStatusEventAsync.java" />
+        <option value="$PROJECT_DIR$/queue-example/src/main/java/com/sit/client/device/ws/BatchDeviceOperation.java" />
+        <option value="$PROJECT_DIR$/queue-example/src/main/java/com/sit/client/queue/listener/DeviceStatusListener.java" />
+        <option value="$PROJECT_DIR$/queue-example/src/test/com/sit/client/tests/MainTest.java" />
+        <option value="$PROJECT_DIR$/queue-example/src/main/java/com/sit/client/device/service/DeviceService.java" />
+        <option value="$PROJECT_DIR$/queue-example/src/main/java/com/sit/client/config/ExecutorConfig.java" />
+        <option value="$PROJECT_DIR$/queue-example/src/main/java/com/sit/client/queue/handlerqueue/AsyncServiceImpl.java" />
+        <option value="$PROJECT_DIR$/queue-example/src/main/java/com/sit/client/queue/handlerqueue/TaskService.java" />
+        <option value="$PROJECT_DIR$/queue-example/src/main/java/com/sit/client/queue/listener/DeviceStatusAsyncListener.java" />
+        <option value="$PROJECT_DIR$/queue-example/src/main/java/com/sit/client/app/CustomRunner.java" />
+        <option value="$PROJECT_DIR$/queue-example/src/main/java/com/sit/client/app/ServerApplication.java" />
+        <option value="$PROJECT_DIR$/queue-example/src/main/java/com/sit/client/device/service/DeviceSynchronization.java" />
+        <option value="$PROJECT_DIR$/queue-example/src/main/java/com/sit/client/config/DruidConfig.java" />
+        <option value="$PROJECT_DIR$/queue-example/src/main/java/com/sit/client/queue/producerqueue/DeviceStatusQueue.java" />
+        <option value="$PROJECT_DIR$/application-example/src/main/test/com/queue/ConcurrentLinkedQueueTest.java" />
+        <option value="$PROJECT_DIR$/rpc-client-example/src/main/java/com/sit/webexample/app/ClientApplication.java" />
+        <option value="$PROJECT_DIR$/rpc-client-example/src/main/java/com/sailing/rpc/client/InitRpcClient.java" />
+        <option value="$PROJECT_DIR$/queue-example/src/main/java/com/sailing/rpc/server/InitRpcServer.java" />
+        <option value="$PROJECT_DIR$/queue-example/src/main/java/com/sailing/rpc/server/BusinessProcessor.java" />
+        <option value="$PROJECT_DIR$/application-example/src/main/test/org/test/event/EventTest.java" />
+        <option value="$PROJECT_DIR$/tglraft/src/main/java/com/tgl/raft/concurrent/TglRaftThreadPool.java" />
+        <option value="$PROJECT_DIR$/tglraft/src/main/java/com/tgl/raft/concurrent/TglRaftThreadPoolExecutor.java" />
+        <option value="$PROJECT_DIR$/application-example/src/main/test/com/sailing/reflex/wait/CountDownLatchTest.java" />
+        <option value="$PROJECT_DIR$/application-example/src/main/test/com/test/examples/KafkaConsumptionMonitoring.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\m2_repository" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.2.1-bin\conf\公司内部私服配置\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1932" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+          <State>
+            <id>Application Server Specific Inspections</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Faces Model</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Hibernate Issues</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>JPA issues</id>
+          </State>
+          <State>
+            <id>JSON</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java EE issues</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Struts</id>
+          </State>
+          <State>
+            <id>Struts 1Struts</id>
+          </State>
+          <State>
+            <id>UI Form Problems</id>
+          </State>
+          <State>
+            <id>Vue</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-starter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="application-example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="application-example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="application-example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="application-example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="application-example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sailing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="atomic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="locks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:30.1-jre" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:30.1-jre" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-30.1-jre.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:30.1-jre" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-30.1-jre.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:30.1-jre" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-30.1-jre.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:30.1-jre" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-30.1-jre.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="collect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: javax.validation:validation-api:2.0.1.Final" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: javax.validation:validation-api:2.0.1.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="validation-api-2.0.1.Final.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: javax.validation:validation-api:2.0.1.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="validation-api-2.0.1.Final.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="validation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: javax.validation:validation-api:2.0.1.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="validation-api-2.0.1.Final.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="validation" type="462c0819:PsiDirectoryNode" />
+              <item name="constraints" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.hibernate.validator:hibernate-validator:6.0.17.Final" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.hibernate.validator:hibernate-validator:6.0.17.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="hibernate-validator-6.0.17.Final.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.hibernate.validator:hibernate-validator:6.0.17.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="hibernate-validator-6.0.17.Final.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="validator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.hibernate.validator:hibernate-validator:6.0.17.Final" type="70bed36:NamedLibraryElementNode" />
+              <item name="hibernate-validator-6.0.17.Final.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="validator" type="462c0819:PsiDirectoryNode" />
+              <item name="constraints" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.1.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.1.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-boot-autoconfigure-2.1.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.1.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-boot-autoconfigure-2.1.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="autoconfigure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.1.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-boot-autoconfigure-2.1.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="autoconfigure" type="462c0819:PsiDirectoryNode" />
+              <item name="condition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:5.1.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:5.1.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-5.1.8.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:5.1.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-5.1.8.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:5.1.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-5.1.8.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:5.1.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-5.1.8.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+              <item name="converter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-web:5.1.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-web-5.1.8.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+              <item name="converter" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="F:/my-project/PMY/vitas-backstage" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.splitter.proportion" value="0.24352331" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sit.client.queue.listener" />
+      <recent name="com.tgl.designpattern.ws" />
+      <recent name="com.sit.client.config" />
+      <recent name="com.sit.client.queue.entity" />
+      <recent name="com.sit.client.queue.handler" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\platfromWork\SpringStarter\examples-master\spring-starter\designpattern\src\main\java\com\tgl\designpattern\service\responsibilitychain\inherit" />
+      <recent name="F:\platfromWork\SpringStarter\examples-master\spring-starter\queue-example\src\main\resources" />
+      <recent name="F:\platfromWork\SpringStarter\examples-master\spring-starter\rpc-client-example\src\main\java\com\sailing\rpc\server" />
+      <recent name="F:\platfromWork\SpringStarter\examples-master\spring-starter\rpc-client-example\src\main\java\com\sailing\rpc\dto" />
+      <recent name="F:\platfromWork\SpringStarter\examples-master\spring-starter\queue-example\src\main\java\com\sailing\rpc\server" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="asdasdsadasd" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.KafkaConsumptionMonitoring.t1">
+    <configuration default="true" type="AndroidJUnit">
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="HEIGHT" value="0" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConcurrentLinkedQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.queue.ConcurrentLinkedQueueTest" />
+      <module name="application-example" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountDownLatchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sailing.reflex.wait.CountDownLatchTest" />
+      <module name="application-example" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sailing.reflex.wait.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaConsumptionMonitoring.t1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="application-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.test.examples.KafkaConsumptionMonitoring" />
+      <option name="METHOD_NAME" value="t1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="minio-example" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="batch-data" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" value="" />
+      <option name="vmParameters" value="" />
+      <option name="alternativeJrePath" value="" />
+      <option name="programParameters" value="" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" value="" />
+      <option name="vmParameters" value="" />
+      <option name="alternativeJrePath" value="" />
+      <option name="programParameters" value="" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" value="" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="rpc-client-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sit.webexample.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sit.webexample.app.ClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="server-Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="queue-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sit.client.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sit.client.app.ServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ConcurrentLinkedQueueTest" />
+      <item itemvalue="Application.CountDownLatchTest" />
+      <item itemvalue="JUnit.KafkaConsumptionMonitoring.t1" />
+      <item itemvalue="Spring Boot.server-Application" />
+      <item itemvalue="Spring Boot.ClientApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.KafkaConsumptionMonitoring.t1" />
+        <item itemvalue="Application.CountDownLatchTest" />
+        <item itemvalue="Spring Boot.server-Application" />
+        <item itemvalue="Spring Boot.ClientApplication" />
+        <item itemvalue="Application.ConcurrentLinkedQueueTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7a95659-7dc6-416f-89c7-a93dbd693cef" name="Default" comment="" />
+      <created>1624781062464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624781062464</updated>
+      <workItem from="1624781068603" duration="13359000" />
+      <workItem from="1624876922131" duration="14364000" />
+      <workItem from="1625116340307" duration="8534000" />
+      <workItem from="1625462404732" duration="10110000" />
+      <workItem from="1625709931812" duration="18667000" />
+      <workItem from="1625980832157" duration="26934000" />
+      <workItem from="1626011996179" duration="109000" />
+      <workItem from="1626051481932" duration="62465000" />
+      <workItem from="1626681969421" duration="37810000" />
+      <workItem from="1627184775757" duration="3760000" />
+      <workItem from="1627272066751" duration="18815000" />
+      <workItem from="1627645720939" duration="1568000" />
+      <workItem from="1627867565565" duration="4562000" />
+      <workItem from="1628043692525" duration="2044000" />
+      <workItem from="1628511979427" duration="1824000" />
+      <workItem from="1628659877074" duration="671000" />
+      <workItem from="1629199556083" duration="8132000" />
+      <workItem from="1629349147481" duration="3145000" />
+      <workItem from="1629623455997" duration="7694000" />
+      <workItem from="1629683567925" duration="5729000" />
+      <workItem from="1630043873738" duration="1522000" />
+      <workItem from="1630378146979" duration="8656000" />
+      <workItem from="1630472418463" duration="9449000" />
+      <workItem from="1630890834772" duration="1267000" />
+      <workItem from="1631616794748" duration="1128000" />
+      <workItem from="1631782037141" duration="5979000" />
+      <workItem from="1632130423317" duration="599000" />
+      <workItem from="1632368744206" duration="37604000" />
+      <workItem from="1632575592206" duration="1022000" />
+      <workItem from="1632622728679" duration="32279000" />
+      <workItem from="1632815868589" duration="7407000" />
+      <workItem from="1632907185979" duration="1894000" />
+      <workItem from="1633751218774" duration="5581000" />
+      <workItem from="1633914930118" duration="11734000" />
+      <workItem from="1634697418243" duration="3113000" />
+      <workItem from="1635237013169" duration="90000" />
+      <workItem from="1635244330989" duration="957000" />
+      <workItem from="1635250805131" duration="805000" />
+      <workItem from="1635391900226" duration="695000" />
+      <workItem from="1637564367752" duration="33720000" />
+      <workItem from="1637741958707" duration="7504000" />
+      <workItem from="1637750037972" duration="2724000" />
+      <workItem from="1637752821808" duration="1127000" />
+      <workItem from="1637754004987" duration="378000" />
+      <workItem from="1637757974801" duration="1216000" />
+      <workItem from="1637803259966" duration="21869000" />
+      <workItem from="1637897480660" duration="3437000" />
+      <workItem from="1638165284713" duration="404000" />
+      <workItem from="1638170433813" duration="2684000" />
+      <workItem from="1638774068829" duration="1825000" />
+      <workItem from="1638942116825" duration="14842000" />
+      <workItem from="1639139357022" duration="575000" />
+      <workItem from="1639295040507" duration="4567000" />
+      <workItem from="1639535194414" duration="1226000" />
+      <workItem from="1639571676013" duration="2503000" />
+      <workItem from="1639638663679" duration="11877000" />
+      <workItem from="1639703364144" duration="2143000" />
+      <workItem from="1639969982523" duration="1062000" />
+      <workItem from="1640054175479" duration="1771000" />
+      <workItem from="1640144748076" duration="3988000" />
+      <workItem from="1640268205463" duration="20000" />
+      <workItem from="1640312936371" duration="3948000" />
+      <workItem from="1640756148585" duration="5700000" />
+      <workItem from="1642653069687" duration="16728000" />
+      <workItem from="1642734013779" duration="16937000" />
+      <workItem from="1642946589785" duration="5555000" />
+      <workItem from="1642985226086" duration="2613000" />
+      <workItem from="1643072967734" duration="12869000" />
+      <workItem from="1644384243538" duration="675000" />
+      <workItem from="1644392921466" duration="153000" />
+      <workItem from="1644393158438" duration="200000" />
+      <workItem from="1644393421494" duration="44000" />
+      <workItem from="1644455379839" duration="1295000" />
+      <workItem from="1645835610450" duration="1673000" />
+      <workItem from="1645922254540" duration="1756000" />
+      <workItem from="1645924075220" duration="790000" />
+      <workItem from="1645935608842" duration="1139000" />
+      <workItem from="1645948798528" duration="156000" />
+      <workItem from="1645950945588" duration="8615000" />
+      <workItem from="1646124833910" duration="4788000" />
+      <workItem from="1646187703564" duration="3864000" />
+      <workItem from="1646480900591" duration="1287000" />
+      <workItem from="1646484637011" duration="19110000" />
+      <workItem from="1646708781494" duration="5013000" />
+      <workItem from="1646793162164" duration="649000" />
+      <workItem from="1647238761140" duration="2134000" />
+      <workItem from="1647693984830" duration="7095000" />
+      <workItem from="1647733604589" duration="5715000" />
+      <workItem from="1647780926076" duration="3041000" />
+      <workItem from="1647824456089" duration="27282000" />
+      <workItem from="1648091547156" duration="937000" />
+      <workItem from="1648729323928" duration="2177000" />
+      <workItem from="1648782865545" duration="2976000" />
+      <workItem from="1648868363570" duration="20317000" />
+      <workItem from="1648941177035" duration="4926000" />
+      <workItem from="1648948825382" duration="951000" />
+      <workItem from="1649083064557" duration="13852000" />
+      <workItem from="1649144286333" duration="8168000" />
+      <workItem from="1649215098378" duration="1190000" />
+      <workItem from="1649478335831" duration="3074000" />
+      <workItem from="1649595833785" duration="23000" />
+      <workItem from="1649681924079" duration="637000" />
+      <workItem from="1649902064250" duration="10895000" />
+      <workItem from="1649984778172" duration="19600000" />
+      <workItem from="1650087663575" duration="37728000" />
+      <workItem from="1650421864516" duration="4774000" />
+      <workItem from="1650504143901" duration="2090000" />
+      <workItem from="1650723524468" duration="220000" />
+      <workItem from="1651150101327" duration="311000" />
+      <workItem from="1651546199287" duration="237000" />
+      <workItem from="1651672482947" duration="948000" />
+      <workItem from="1652883410029" duration="13300000" />
+      <workItem from="1653798871689" duration="9067000" />
+      <workItem from="1654307986473" duration="22406000" />
+      <workItem from="1655618381701" duration="11409000" />
+      <workItem from="1655640595324" duration="46000" />
+      <workItem from="1655642462900" duration="7734000" />
+      <workItem from="1655690439705" duration="28468000" />
+      <workItem from="1655780967271" duration="42258000" />
+      <workItem from="1655861991473" duration="33008000" />
+      <workItem from="1655914662382" duration="2903000" />
+      <workItem from="1655948615553" duration="18240000" />
+      <workItem from="1656039564403" duration="1736000" />
+      <workItem from="1656129653973" duration="1790000" />
+      <workItem from="1656143975042" duration="93000" />
+      <workItem from="1658278704931" duration="1474000" />
+      <workItem from="1658281864317" duration="1550000" />
+      <workItem from="1658283682524" duration="1790000" />
+      <workItem from="1658285508053" duration="1872000" />
+      <workItem from="1658288291575" duration="599000" />
+      <workItem from="1658294518166" duration="2054000" />
+      <workItem from="1658296607953" duration="874000" />
+      <workItem from="1658298856135" duration="610000" />
+      <workItem from="1658300683282" duration="1483000" />
+      <workItem from="1658302939558" duration="1805000" />
+      <workItem from="1658304773725" duration="1519000" />
+      <workItem from="1658307503105" duration="1790000" />
+      <workItem from="1658311170796" duration="1678000" />
+      <workItem from="1658313204262" duration="1315000" />
+      <workItem from="1658319741142" duration="652000" />
+      <workItem from="1658365848089" duration="1388000" />
+      <workItem from="1658367344166" duration="1700000" />
+      <workItem from="1658375351554" duration="110000" />
+      <workItem from="1658376102831" duration="1841000" />
+      <workItem from="1658747565200" duration="1089000" />
+      <workItem from="1658819722689" duration="5586000" />
+      <workItem from="1658884343600" duration="7699000" />
+      <workItem from="1658906048668" duration="9580000" />
+      <workItem from="1659317614778" duration="1201000" />
+      <workItem from="1659504312641" duration="3719000" />
+      <workItem from="1659580564625" duration="1860000" />
+      <workItem from="1659837814908" duration="8614000" />
+      <workItem from="1659920770428" duration="9539000" />
+      <workItem from="1660024080542" duration="668000" />
+      <workItem from="1660098749582" duration="8573000" />
+      <workItem from="1660123020750" duration="8076000" />
+      <workItem from="1660180510772" duration="33684000" />
+      <workItem from="1660353094408" duration="14622000" />
+      <workItem from="1660526555612" duration="35801000" />
+      <workItem from="1660698141767" duration="2322000" />
+      <workItem from="1660786359261" duration="698000" />
+      <workItem from="1660871009952" duration="2168000" />
+      <workItem from="1661130855210" duration="5459000" />
+      <workItem from="1661216620878" duration="5344000" />
+      <workItem from="1661320031387" duration="15564000" />
+      <workItem from="1661389771597" duration="1926000" />
+      <workItem from="1661820656197" duration="3195000" />
+      <workItem from="1661993873591" duration="2580000" />
+      <workItem from="1662339867571" duration="1990000" />
+      <workItem from="1662512507405" duration="782000" />
+      <workItem from="1662701065521" duration="2298000" />
+      <workItem from="1662863910190" duration="24723000" />
+      <workItem from="1663058293920" duration="1695000" />
+      <workItem from="1663117468984" duration="6971000" />
+      <workItem from="1663204084277" duration="1772000" />
+      <workItem from="1663290391834" duration="7293000" />
+      <workItem from="1663385663901" duration="1797000" />
+      <workItem from="1663473946522" duration="3152000" />
+      <workItem from="1663549424844" duration="7226000" />
+      <workItem from="1663808895703" duration="1723000" />
+      <workItem from="1663895243522" duration="7232000" />
+      <workItem from="1664154276134" duration="10080000" />
+      <workItem from="1664327453198" duration="680000" />
+      <workItem from="1664419987210" duration="6969000" />
+      <workItem from="1664500606643" duration="672000" />
+      <workItem from="1664722052876" duration="3621000" />
+      <workItem from="1665191792915" duration="615000" />
+      <workItem from="1665199451166" duration="1217000" />
+      <workItem from="1665277745490" duration="596000" />
+      <workItem from="1665372397847" duration="1870000" />
+      <workItem from="1665381567172" duration="19105000" />
+      <workItem from="1665988604054" duration="11662000" />
+      <workItem from="1667178084394" duration="1786000" />
+      <workItem from="1667870573604" duration="3620000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="KafkaConsumptionMonitoring_t1 - 2022.10.18 at 14h 42m 35s.xml">
+      <configuration name="KafkaConsumptionMonitoring.t1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KafkaConsumptionMonitoring_t1 - 2022.10.18 at 14h 43m 34s.xml">
+      <configuration name="KafkaConsumptionMonitoring.t1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KafkaConsumptionMonitoring_t1 - 2022.10.18 at 14h 44m 11s.xml">
+      <configuration name="KafkaConsumptionMonitoring.t1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KafkaConsumptionMonitoring_t1 - 2022.10.18 at 14h 44m 51s.xml">
+      <configuration name="KafkaConsumptionMonitoring.t1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KafkaConsumptionMonitoring_t1 - 2022.10.18 at 15h 25m 02s.xml">
+      <configuration name="KafkaConsumptionMonitoring.t1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KafkaConsumptionMonitoring_t1 - 2022.10.18 at 15h 25m 40s.xml">
+      <configuration name="KafkaConsumptionMonitoring.t1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KafkaConsumptionMonitoring_t1 - 2022.10.18 at 15h 25m 57s.xml">
+      <configuration name="KafkaConsumptionMonitoring.t1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KafkaConsumptionMonitoring_t1 - 2022.10.19 at 09h 36m 55s.xml">
+      <configuration name="KafkaConsumptionMonitoring.t1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KafkaConsumptionMonitoring_t1 - 2022.10.19 at 09h 38m 10s.xml">
+      <configuration name="KafkaConsumptionMonitoring.t1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KafkaConsumptionMonitoring_t1 - 2022.10.19 at 09h 38m 36s.xml">
+      <configuration name="KafkaConsumptionMonitoring.t1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1339670000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20202559" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49252138" weight="0.33476394" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.26180258" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" x="21" y="253" width="1872" height="548" id="Terminal" order="8" sideWeight="0.4978678" type="WINDOWED" weight="0.38327906" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50747865" side_tool="true" weight="0.5960912" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.2918455" />
+      <window_info anchor="bottom" id="SonarLint" order="11" weight="0.56147987" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.21162046" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32995737" />
+      <window_info anchor="right" id="jclasslib" order="10" weight="0.46002132" />
+      <window_info anchor="right" id="RestServices" order="11" />
+      <window_info anchor="right" id="Maven" order="12" weight="0.23504274" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1977612" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49252138" weight="0.46566522" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.26180258" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" x="21" y="253" width="1872" height="548" id="Terminal" order="8" sideWeight="0.4978678" type="WINDOWED" weight="0.38327906" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50747865" side_tool="true" weight="0.5960912" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.2918455" />
+      <window_info anchor="bottom" id="SonarLint" order="11" weight="0.56147987" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.21162046" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32995737" />
+      <window_info anchor="right" id="jclasslib" order="10" weight="0.46002132" />
+      <window_info anchor="right" id="RestServices" order="11" />
+      <window_info anchor="right" id="Maven" order="12" weight="0.23504274" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/designpattern/src/main/java/com/tgl/designpattern/etcd/EtcdInitImpl.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/5.1.8.RELEASE/spring-context-support-5.1.8.RELEASE.jar!/org/springframework/cache/transaction/TransactionAwareCacheDecorator.class</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/queue-example/src/main/java/com/sit/client/server/rpc/DefaultRaftRpcServer.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/queue-example/src/main/java/com/sit/client/server/rpc/DefaultRaftRpcServer.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/queue-example/src/main/java/com/sit/client/server/rpc/DefaultRaftRpcServer.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application-example/src/main/test/com/queue/ConcurrentLinkedQueueTest.java</url>
+          <line>104</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application-example/src/main/test/com/queue/ConcurrentLinkedQueueTest.java</url>
+          <line>105</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/application-example/src/main/test/com/queue/ConcurrentLinkedQueueTest.java</url>
+          <line>106</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/Program Files/Java/jdk1.8.0_251/src.zip!/java/util/concurrent/FutureTask.java</url>
+          <line>116</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/Program Files/Java/jdk1.8.0_251/src.zip!/java/util/concurrent/ThreadPoolExecutor.java</url>
+          <line>1394</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://E:/Program Files/Java/jdk1.8.0_251/src.zip!/java/util/concurrent/Future.java</url>
+          <line>150</line>
+          <properties class="java.util.concurrent.Future" method="get">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://E:/Program Files/Java/jdk1.8.0_251/src.zip!/java/util/concurrent/ExecutorService.java</url>
+          <line>155</line>
+          <properties class="java.util.concurrent.ExecutorService" method="shutdown">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="clazz" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://E:/m2_repository/com/alipay/sofa/bolt/1.6.4/bolt-1.6.4-sources.jar!/com/alipay/remoting/ConnectionManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="111" column="9" selection-start-line="111" selection-start-column="9" selection-end-line="111" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/m2_repository/com/alipay/sofa/bolt/1.6.4/bolt-1.6.4-sources.jar!/com/alipay/remoting/DefaultConnectionManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="350" column="16" selection-start-line="350" selection-start-column="16" selection-end-line="350" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/m2_repository/com/alipay/sofa/bolt/1.6.4/bolt-1.6.4-sources.jar!/com/alipay/remoting/InvokeContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="44" column="90" selection-start-line="44" selection-start-column="86" selection-end-line="44" selection-end-column="90" />
+          <folding>
+            <element signature="e#4975#4976#0" expanded="true" />
+            <element signature="e#5027#5028#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/m2_repository/com/alipay/sofa/bolt/1.6.4/bolt-1.6.4-sources.jar!/com/alipay/remoting/rpc/RpcClientRemoting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="122" column="69" lean-forward="true" selection-start-line="122" selection-start-column="69" selection-end-line="122" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/m2_repository/io/netty/netty-all/4.1.42.Final/netty-all-4.1.42.Final-sources.jar!/io/netty/channel/ChannelFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4774">
+          <caret line="173" column="18" selection-start-line="173" selection-start-column="18" selection-end-line="173" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/m2_repository/com/alipay/sofa/bolt/1.6.4/bolt-1.6.4-sources.jar!/com/alipay/remoting/BaseRemoting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="59" column="30" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/m2_repository/com/alipay/sofa/bolt/1.6.4/bolt-1.6.4-sources.jar!/com/alipay/remoting/rpc/RpcCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="300" column="16" selection-start-line="300" selection-start-column="16" selection-end-line="300" selection-end-column="16" />
+          <folding>
+            <element signature="e#8252#8253#0" expanded="true" />
+            <element signature="e#8302#8303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/m2_repository/com/alipay/sofa/bolt/1.6.4/bolt-1.6.4-sources.jar!/com/alipay/remoting/ResponseStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/m2_repository/com/alipay/sofa/bolt/1.6.4/bolt-1.6.4-sources.jar!/com/alipay/remoting/rpc/RpcRemoting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="184" lean-forward="true" selection-start-line="184" selection-end-line="184" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application-example/target/test-classes/com/queue/ConcurrentLinkedQueueTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#4578#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queue-example/target/classes/com/sit/client/queue/handlerqueue/TaskService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#1518#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1464#1465#0" expanded="true" />
+            <element signature="e#1514#1515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queue-example/target/classes/com/sit/client/device/entity/DeviceStatusDto.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2263">
+          <caret line="286" column="34" selection-start-line="286" selection-start-column="34" selection-end-line="286" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queue-example/src/main/java/com/sit/client/queue/handlerqueue/TaskService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/m2_repository/com/alipay/sofa/bolt/1.6.4/bolt-1.6.4-sources.jar!/com/alipay/remoting/rpc/exception/InvokeTimeoutException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+          <folding>
+            <element signature="e#1434#1435#0" expanded="true" />
+            <element signature="e#1460#1461#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/m2_repository/com/alipay/sofa/bolt/1.6.4/bolt-1.6.4-sources.jar!/com/alipay/remoting/rpc/exception/InvokeSendFailedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+          <folding>
+            <element signature="e#1465#1466#0" expanded="true" />
+            <element signature="e#1498#1499#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/m2_repository/com/alipay/sofa/bolt/1.6.4/bolt-1.6.4-sources.jar!/com/alipay/remoting/exception/ConnectionClosedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+          <folding>
+            <element signature="e#1316#1317#0" expanded="true" />
+            <element signature="e#1342#1343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/m2_repository/com/alipay/sofa/bolt/1.6.4/bolt-1.6.4-sources.jar!/com/alipay/remoting/rpc/exception/InvokeServerBusyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+          <folding>
+            <element signature="e#1385#1386#0" expanded="true" />
+            <element signature="e#1411#1412#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/m2_repository/com/alipay/sofa/bolt/1.6.4/bolt-1.6.4-sources.jar!/com/alipay/remoting/exception/CodecException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-110">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/m2_repository/com/alipay/sofa/bolt/1.6.4/bolt-1.6.4-sources.jar!/com/alipay/remoting/exception/SerializationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+          <folding>
+            <element signature="e#1383#1384#0" expanded="true" />
+            <element signature="e#1413#1414#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/m2_repository/com/alipay/sofa/bolt/1.6.4/bolt-1.6.4-sources.jar!/com/alipay/remoting/rpc/RpcResponseResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="162" column="67" selection-start-line="162" selection-start-column="67" selection-end-line="162" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/m2_repository/com/alipay/sofa/bolt/1.6.4/bolt-1.6.4-sources.jar!/com/alipay/remoting/rpc/ResponseCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="34" column="49" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application-example/src/main/test/org/test/event/EventTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_251/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="263" column="10" selection-start-line="263" selection-start-column="4" selection-end-line="263" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_251/src.zip!/java/util/concurrent/CompletableFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <caret line="1718" column="19" selection-start-line="1718" selection-start-column="19" selection-end-line="1718" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_251/src.zip!/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="150" column="6" selection-start-line="150" selection-start-column="6" selection-end-line="150" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_251/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2959">
+          <caret line="2100" column="34" lean-forward="true" selection-start-line="2100" selection-start-column="34" selection-end-line="2100" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application-example/src/main/test/com/queue/ConcurrentLinkedQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tglraft/src/main/java/com/tgl/raft/concurrent/TglThreadDataCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tglraft/src/main/java/com/tgl/raft/concurrent/TglRaftThreadHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_251/src.zip!/java/util/concurrent/ScheduledThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8486">
+          <caret line="444" column="11" selection-start-line="444" selection-start-column="11" selection-end-line="444" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tglraft/src/main/java/com/tgl/raft/concurrent/TglRaftThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tglraft/src/main/java/com/tgl/raft/concurrent/TglRaftThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_251/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="360" column="33" selection-start-line="360" selection-start-column="33" selection-end-line="360" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_251/src.zip!/java/lang/Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-885">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_251/src.zip!/java/util/concurrent/BlockingDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="199" column="17" selection-start-line="199" selection-start-column="17" selection-end-line="199" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_251/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_251/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="921" column="25" selection-start-line="921" selection-start-column="25" selection-end-line="921" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_251/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="243" lean-forward="true" selection-start-line="243" selection-end-line="243" />
+          <folding>
+            <element signature="e#7388#7389#0" expanded="true" />
+            <element signature="e#7427#7428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_251/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="e#2032#2033#0" expanded="true" />
+            <element signature="e#2060#2061#0" expanded="true" />
+            <element signature="e#4504#4505#0" expanded="true" />
+            <element signature="e#4572#4573#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_251/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="143" column="40" selection-start-line="143" selection-start-column="40" selection-end-line="143" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#8063#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_251/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7231">
+          <caret line="473" lean-forward="true" selection-start-line="473" selection-end-line="473" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_251/src.zip!/java/util/concurrent/ConcurrentMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="42" column="3" lean-forward="true" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_251/jre/lib/rt.jar!/sun/nio/ch/Interruptible.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_251/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4030">
+          <caret line="100" column="36" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#26270#26271#0" expanded="true" />
+            <element signature="e#26326#26327#0" expanded="true" />
+            <element signature="e#27751#27752#0" expanded="true" />
+            <element signature="e#27815#27816#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application-example/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application-example/src/main/test/com/sailing/reflex/wait/CountDownLatchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3410">
+          <caret line="121" column="13" selection-start-line="121" selection-start-column="13" selection-end-line="121" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application-example/src/main/test/com/test/examples/Examples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1271">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_251/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3255">
+          <caret line="137" column="13" selection-start-line="137" selection-start-column="13" selection-end-line="137" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_251/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15841">
+          <caret line="579" column="7" selection-start-line="579" selection-start-column="7" selection-end-line="579" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tglraft/src/main/java/com/tgl/raft/concurrent/TglRaftThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application-example/src/main/test/com/test/examples/KafkaConsumptionMonitoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="40" column="28" lean-forward="true" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>application-example</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: cglib:cglib:3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

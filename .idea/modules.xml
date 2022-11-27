@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/application-example/application-example.iml" filepath="$PROJECT_DIR$/application-example/application-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/batch-data/batch-data.iml" filepath="$PROJECT_DIR$/batch-data/batch-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binlogevent/binlogevent.iml" filepath="$PROJECT_DIR$/binlogevent/binlogevent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ckHelper/ckHelper.iml" filepath="$PROJECT_DIR$/ckHelper/ckHelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designpattern/designpattern.iml" filepath="$PROJECT_DIR$/designpattern/designpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es-starter/es-starter.iml" filepath="$PROJECT_DIR$/es-starter/es-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nativeCache/example/example (1).iml" filepath="$PROJECT_DIR$/nativeCache/example/example (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-controller/example-controller.iml" filepath="$PROJECT_DIR$/example-controller/example-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-rocksdb/example-rocksdb.iml" filepath="$PROJECT_DIR$/example-rocksdb/example-rocksdb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-client-example/example1.iml" filepath="$PROJECT_DIR$/rpc-client-example/example1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-extraction-tool/extractiontool.iml" filepath="$PROJECT_DIR$/data-extraction-tool/extractiontool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keeplive/keeplive.iml" filepath="$PROJECT_DIR$/keeplive/keeplive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minio/minio-example.iml" filepath="$PROJECT_DIR$/minio/minio-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mq-starter/mq-starter.iml" filepath="$PROJECT_DIR$/mq-starter/mq-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nativeCache/nativeCache.iml" filepath="$PROJECT_DIR$/nativeCache/nativeCache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queue-example/queue-example.iml" filepath="$PROJECT_DIR$/queue-example/queue-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-client-example/rpc-client-example.iml" filepath="$PROJECT_DIR$/rpc-client-example/rpc-client-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-starter.iml" filepath="$PROJECT_DIR$/spring-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tglraft/tgl-raft.iml" filepath="$PROJECT_DIR$/tglraft/tgl-raft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tglraft-rocksdb/tgl-raft-rocksdb.iml" filepath="$PROJECT_DIR$/tglraft-rocksdb/tgl-raft-rocksdb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/track-service/track-service.iml" filepath="$PROJECT_DIR$/track-service/track-service.iml" />
+    </modules>
+  </component>
+</project>

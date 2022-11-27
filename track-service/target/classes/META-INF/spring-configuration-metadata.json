@@ -1,0 +1,63 @@
+{
+  "groups": [
+    {
+      "name": "business.track",
+      "type": "com.sit.personcar.track.models.config.SystemConfig",
+      "sourceType": "com.sit.personcar.track.models.config.SystemConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "business.track.configs",
+      "type": "java.util.List<com.sit.personcar.track.models.config.SystemConfig$KeysConfigs>",
+      "sourceType": "com.sit.personcar.track.models.config.SystemConfig"
+    },
+    {
+      "name": "business.track.end-user-certificate",
+      "type": "java.lang.String",
+      "sourceType": "com.sit.personcar.track.models.config.SystemConfig"
+    },
+    {
+      "name": "business.track.end-user-department",
+      "type": "java.lang.String",
+      "sourceType": "com.sit.personcar.track.models.config.SystemConfig"
+    },
+    {
+      "name": "business.track.end-user-device-id",
+      "type": "java.lang.String",
+      "sourceType": "com.sit.personcar.track.models.config.SystemConfig"
+    },
+    {
+      "name": "business.track.end-user-id-card",
+      "type": "java.lang.String",
+      "sourceType": "com.sit.personcar.track.models.config.SystemConfig"
+    },
+    {
+      "name": "business.track.end-user-name",
+      "type": "java.lang.String",
+      "sourceType": "com.sit.personcar.track.models.config.SystemConfig"
+    },
+    {
+      "name": "business.track.endpoint",
+      "type": "java.lang.String",
+      "description": "服务方访问地址",
+      "sourceType": "com.sit.personcar.track.models.config.SystemConfig"
+    },
+    {
+      "name": "business.track.password",
+      "type": "java.lang.String",
+      "sourceType": "com.sit.personcar.track.models.config.SystemConfig"
+    },
+    {
+      "name": "business.track.sender-id",
+      "type": "java.lang.String",
+      "sourceType": "com.sit.personcar.track.models.config.SystemConfig"
+    },
+    {
+      "name": "business.track.username",
+      "type": "java.lang.String",
+      "sourceType": "com.sit.personcar.track.models.config.SystemConfig"
+    }
+  ],
+  "hints": []
+}

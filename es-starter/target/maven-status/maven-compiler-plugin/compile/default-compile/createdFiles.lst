@@ -1,0 +1,6 @@
+com\sailing\commons\data\es\starter\ElasticSearchProperties.class
+com\sailing\commons\data\es\starter\ElasticSearchAutoConfiguration$1.class
+com\sailing\commons\data\es\starter\SailingRestHighLevelClient.class
+com\sailing\commons\data\es\starter\ElasticSearchAutoConfiguration$2.class
+com\sailing\commons\data\es\starter\ElasticSearchAutoConfiguration.class
+META-INF\spring-configuration-metadata.json

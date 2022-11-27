@@ -1,0 +1,9 @@
+
+^squid:S4488!"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¡½¦
+nsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(ìŸºËùÿÿÿÿ8Íñ£ª/
+jsquid:S001124"FDefine and throw a dedicated exception instead of using a generic one.(¬€´Œøÿÿÿÿ8ì™ô£ª/
+fsquid:S4488B"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Æ‰ý³8ˆÿÊç¬/
+fsquid:S1192&"HDefine a constant instead of duplicating this literal "message" 3 times.(ÆÿÏ¼8ˆÿÊç¬/
+fsquid:S44882"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ù´Ÿº8‘ò£ª/
+nsquid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(ìŸºËùÿÿÿÿ8‘ò£ª/
+ksquid:S1192%"HDefine a constant instead of duplicating this literal "success" 3 times.(‹ù›îÿÿÿÿÿ8ˆÿÊç¬/

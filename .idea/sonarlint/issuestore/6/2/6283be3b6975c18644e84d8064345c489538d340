@@ -1,0 +1,49 @@
+
+]squid:S1155Ñ">Use isEmpty() to check whether the collection is empty or not.(¢‹Àå8–À–´Á/
+Gsquid:S1148„"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–À–´Á/
+´%squid:RedundantThrowsDeclarationCheck×"vRemove the declaration of thrown exception 'org.springframework.dao.DataAccessException' which is a runtime exception.(Š·ùóùÿÿÿÿ8–À–´Á/
+Gsquid:S1148ä"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–À–´Á/
+´%squid:RedundantThrowsDeclarationCheckÀ"vRemove the declaration of thrown exception 'org.springframework.dao.DataAccessException' which is a runtime exception.(ú™àôúÿÿÿÿ8¹§–´Á/
+´%squid:RedundantThrowsDeclarationCheck†"vRemove the declaration of thrown exception 'org.springframework.dao.DataAccessException' which is a runtime exception.(Š·ùóùÿÿÿÿ8–À–´Á/
+Osquid:S2589ˆ"7Remove this expression which always evaluates to "true"(•ñ¥À
+Gsquid:S1148í"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–À–´Á/
+\
+squid:S106¿"9Replace this use of System.out or System.err by a logger.(òõ˜øÿÿÿÿ8Ó™Ÿ´Á/
+Gsquid:S1148¯"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–À–´Á/
+Gsquid:S1148›"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–À–´Á/
+Gsquid:S1148Â"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–À–´Á/
+fsquid:S00112¶"FDefine and throw a dedicated exception instead of using a generic one.(Ÿ½”8–À–´Á/
+Jsquid:S1168î"+Return an empty collection instead of null.(¥¹ï8–À–´Á/
+vsquid:S1171ƒ"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+´%squid:RedundantThrowsDeclarationCheckô"vRemove the declaration of thrown exception 'org.springframework.dao.DataAccessException' which is a runtime exception.(Š·ùóùÿÿÿÿ8–À–´Á/
+esquid:S00112¨"FDefine and throw a dedicated exception instead of using a generic one.(ÄÊĞ88–À–´Á/
+Gsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–À–´Á/
+jsquid:HiddenFieldCheck("ARename "redisTemplate" which hides the field declared at line 72.(ŒëÇ¬8Š´µÁ/
+‚squid:S1488á"^Immediately return this expression instead of assigning it to the temporary variable "remove".(²ĞÉàıÿÿÿÿ8–À–´Á/
+Gsquid:S1148¢"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–À–´Á/
+Psquid:S1602â",Remove useless curly braces around statement(Ã´Œ“ùÿÿÿÿ8–À–´Á/
+Wsquid:S2589ß"8Remove this expression which always evaluates to "false"(òõìƒ8–À–´Á/
+Gsquid:S1148ã"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–À–´Á/
+Dsquid:S3599‚",Use another way to initialize this instance.(´Ê›¡
+Gsquid:S1148™"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–À–´Á/
+Gsquid:S1148¬"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–À–´Á/
+Gsquid:S1148ä"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–À–´Á/
+Esquid:S1168Å"&Return an empty array instead of null.(¥¹ï8¹§–´Á/
+Gsquid:S1148À"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–À–´Á/
+]squid:S1155ß">Use isEmpty() to check whether the collection is empty or not.(òõìƒ8–À–´Á/
+Vsquid:S1155ˆ">Use isEmpty() to check whether the collection is empty or not.(•ñ¥À
+Gsquid:S1148«"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–À–´Á/
+Gsquid:S1148ò"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–À–´Á/
+Gsquid:S1148±"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–À–´Á/
+Gsquid:S1148…"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–À–´Á/
+Gsquid:S1148ô"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–À–´Á/
+Jsquid:S1168Ö"+Return an empty collection instead of null.(¥¹ï8–À–´Á/
+Gsquid:S1148Ò"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–À–´Á/
+Gsquid:S1148Å"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–À–´Á/
+Gsquid:S1148Õ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–À–´Á/
+Ksquid:S1602‡",Remove useless curly braces around statement(ÁÃæÒ8–À–´Á/
+Gsquid:S1148ó"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–À–´Á/
+Gsquid:S1148‡"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–À–´Á/
+Gsquid:S1148ı"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–À–´Á/
+Gsquid:S1148š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–À–´Á/
+|squid:S1488¿"]Immediately return this expression instead of assigning it to the temporary variable "count".(ıÿî¢8–À–´Á/

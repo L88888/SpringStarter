@@ -1,0 +1,17 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(®š°Ò8± ‰ß­/
+bsquid:S2583$"DChange this condition so that it does not always evaluate to "false"(ï›Û8ªñ®ß­/
+V
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ĞÒÃé8Æ•–ß­/
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ĞÒÃé8½å›ß­/
+rsquid:S1215!"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8€ ”ß­/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿ôƒ—şÿÿÿÿ8Ş½ß­/
+isquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(Åœûğ8‹ïÑß­/
+Œsquid:S4165+"nRemove this useless assignment; "finalizeEscapeGC" already holds the assigned value along all execution paths.(şƒ’æ8‹ïÑß­/
+bsquid:S2583/"DChange this condition so that it does not always evaluate to "false"(ï›Û8ˆ¯¯ß­/
+g"squid:ObjectFinalizeOverridenCheck"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ8›âÿŞ­/
+Ysquid:S2696"6Make the enclosing method "static" or remove this set.(ıÃÒŒşÿÿÿÿ8óóŠß­/
+rsquid:S1215,"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8½å›ß­/

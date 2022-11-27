@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="queue-example" />
+        <module name="example-rocksdb" />
+        <module name="ckHelper" />
+        <module name="designpattern" />
+        <module name="example (1)" />
+        <module name="extractiontool" />
+        <module name="minio-example" />
+        <module name="track-service" />
+        <module name="tgl-raft" />
+        <module name="rpc-client-example" />
+        <module name="example1" />
+        <module name="keeplive" />
+        <module name="batch-data" />
+        <module name="mq-starter" />
+        <module name="nativeCache" />
+        <module name="binlogevent" />
+        <module name="application-example" />
+        <module name="es-starter" />
+        <module name="example-controller" />
+        <module name="tgl-raft-rocksdb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="application-example" target="1.8" />
+      <module name="batch-data" target="8" />
+      <module name="binlogevent" target="8" />
+      <module name="ckHelper" target="1.8" />
+      <module name="designpattern" target="8" />
+      <module name="es-starter" target="1.8" />
+      <module name="example" target="8" />
+      <module name="example (1)" target="8" />
+      <module name="example-controller" target="8" />
+      <module name="example-rocksdb" target="8" />
+      <module name="example1" target="8" />
+      <module name="extractiontool" target="1.8" />
+      <module name="keeplive" target="8" />
+      <module name="minio-example" target="8" />
+      <module name="mq-starter" target="1.8" />
+      <module name="nativeCache" target="8" />
+      <module name="queue-example" target="8" />
+      <module name="rpc-client-example" target="8" />
+      <module name="spring-starter" target="1.5" />
+      <module name="tgl-raft" target="8" />
+      <module name="tgl-raft-rocksdb" target="8" />
+      <module name="track-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="batch-data" options="-parameters" />
+      <module name="binlogevent" options="-parameters" />
+      <module name="ckHelper" options="-parameters" />
+      <module name="designpattern" options="-parameters" />
+      <module name="es-starter" options="-parameters" />
+      <module name="example-controller" options="-parameters" />
+      <module name="example-rocksdb" options="-parameters" />
+      <module name="example1" options="-parameters" />
+      <module name="extractiontool" options="-parameters" />
+      <module name="keeplive" options="-parameters" />
+      <module name="minio-example" options="-parameters" />
+      <module name="mq-starter" options="-parameters" />
+      <module name="nativeCache" options="-parameters" />
+      <module name="queue-example" options="-parameters" />
+      <module name="rpc-client-example" options="-parameters" />
+      <module name="track-service" options="-parameters" />
+    </option>
+  </component>
+</project>

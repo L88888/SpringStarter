@@ -1,0 +1,8 @@
+
+usquid:S3776,"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ûˆĞ˜şÿÿÿÿ8Ñ±æ¤/
+gsquid:S5361¥"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÙÇÑà8Ñ±æ¤/
+{
+squid:S135@"YReduce the total number of break and continue statements in this loop to use at most one.(êåøÿÿÿÿ8Ñ±æ¤/
+{squid:S1488¥"\Immediately return this expression instead of assigning it to the temporary variable "data".(ÙÇÑà8Ñ±æ¤/
+isquid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(Ù˜ ±8Ñ±æ¤/
+nsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(Äéøïşÿÿÿÿ8Ñ±æ¤/

@@ -1,0 +1,14 @@
+
+?squid:S1148K"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148›"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148é"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148¼"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+vsquid:S1192}"ZDefine a constant instead of duplicating this literal "å…¥å‚ä¸èƒ½ä¸ºç©ºkey:>{}" 4 times.(ä²¶úÿÿÿÿ
+jsquid:ModifiersOrderCheckV"EReorder the modifiers to comply with the Java Language Specification.(Â›‚¿
+?squid:S1148r"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148‡"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148Ò"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Esquid:S3077V".Remove the "volatile" keyword from this field.(Â›‚¿
+@squid:S1148«"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+squid:S1192ˆ"rDefine a constant instead of duplicating this literal "çŠ¶æ€æœºæ•°æ®æ£€ç´¢å¼‚å¸¸ï¼Œå¼‚å¸¸ä¿¡æ¯ä¸º:>{}" 4 times.(»ÜÎ–þÿÿÿÿ
+vsquid:S3008V"_Rename this field "INSTANCESTATEMACHINE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â›‚¿

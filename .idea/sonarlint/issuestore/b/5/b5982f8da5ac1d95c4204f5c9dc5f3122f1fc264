@@ -1,0 +1,55 @@
+
+Osquid:S1135Ş"2Complete the task associated to this TODO comment.(Íà™¦üÿÿÿÿ
+^squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+hsquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(Ã¼Å´ıÿÿÿÿ
+@squid:S1148³"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+csquid:S2184¥"FCast one of the operands of this multiplication operation to a "long".(Íí‘øÿÿÿÿ
+bsquid:S2147¢"ECombine this catch with the one at line 414, which has the same body.(†ëˆçùÿÿÿÿ
+csquid:CommentedOutCodeLineù"<This block of commented-out lines of code should be removed.(¥Ï‘Õ
+Jsquid:S1135"2Complete the task associated to this TODO comment.(ê¥¾ø
+[squid:S1155“">Use isEmpty() to check whether the collection is empty or not.(ïˆÓàûÿÿÿÿ
+osquid:ModifiersOrderChecku"EReorder the modifiers to comply with the Java Language Specification.(“Ééøûÿÿÿÿ
+Jsquid:S1135º"2Complete the task associated to this TODO comment.(®Ù Ï
+@squid:S1148£"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+lsquid:S30084"URename this field "RPC_SERVER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ¬¸¼
+^squid:S2142²"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+™squid:S1186Ë"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“–ış
+Isquid:S1135À"2Complete the task associated to this TODO comment.(£ÁÑ[
+^$squid:AssignmentInSubExpressionCheckz".Extract the assignment out of this expression.(ÕœÕ¼
+Osquid:S1135›"2Complete the task associated to this TODO comment.(öÃû´üÿÿÿÿ
+bsquid:S2184`"FCast one of the operands of this multiplication operation to a "long".(ëÛµìùÿÿÿÿ
+@squid:S1148¢"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Rsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Jsquid:S1135½"2Complete the task associated to this TODO comment.(Éè¨ò
+V
+squid:S899 ":Do something with the "boolean" value returned by "await".(›âš‡øÿÿÿÿ
+hsquid:CommentedOutCodeLineÂ"<This block of commented-out lines of code should be removed.(ÏáôÔÿÿÿÿÿ
+Jsquid:S1135²"2Complete the task associated to this TODO comment.(”›„×
+Jsquid:S1135ş"2Complete the task associated to this TODO comment.(ô•û¼
+osquid:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(›ÜÈìøÿÿÿÿ
+bsquid:S2147 "ECombine this catch with the one at line 414, which has the same body.(åşŒóùÿÿÿÿ
+@squid:S1148Ÿ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+hsquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(›÷ËĞÿÿÿÿÿ
+jsquid:S3776”"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(“–ış
+@squid:S1148¡"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Jsquid:S1135"2Complete the task associated to this TODO comment.(ııöÖ
+Osquid:S1135·"2Complete the task associated to this TODO comment.(·ˆ¶Œúÿÿÿÿ
+jsquid:S3776²"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(Ñ¢±ó
+Jsquid:S1135ì"2Complete the task associated to this TODO comment.(•‰‡˜
+^squid:S2142¡"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+csquid:CommentedOutCodeLineş"<This block of commented-out lines of code should be removed.(€ÒÕ­
+csquid:CommentedOutCodeLineæ"<This block of commented-out lines of code should be removed.(€ÒÕ­
+]squid:S2184\"FCast one of the operands of this multiplication operation to a "long".(öø‚¤
+Q
+squid:S899”":Do something with the "boolean" value returned by "offer".(¢×ÅÃ
+jsquid:S00117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¾©•
+osquid:S3008u"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Ééøûÿÿÿÿ
+Jsquid:S1135‚"2Complete the task associated to this TODO comment.(•“ò
+Jsquid:S3077u".Remove the "volatile" keyword from this field.(“Ééøûÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(™öµË
+Vsquid:S3078·">Use an "AtomicLong" for this field; its operations are atomic.(•ôÖŠ
+Nsquid:S2696Ñ"6Make the enclosing method "static" or remove this set.(å“Ğà
+Bsquid:S5411¸"*Use the primitive boolean expression here.(…Ò«Ã
+=squid:S3398°"%Move this method into "ElectionTask".(°çìò
+Q
+squid:S899°":Do something with the "boolean" value returned by "await".(çì¾

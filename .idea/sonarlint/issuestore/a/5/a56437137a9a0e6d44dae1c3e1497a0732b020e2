@@ -1,0 +1,19 @@
+
+|squid:S00116"XRename this field "vehicle_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄŸƒ–úÿÿÿÿ8ï¥‡å¤/
+wsquid:S00116!"XRename this field "vehicle_color" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šµœ„8ï¥‡å¤/
+ssquid:S00116"TRename this field "device_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æô×í8ï¥‡å¤/
+Vsquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü8Šë„ê¤/
+ssquid:S00116#"TRename this field "area_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Úÿ8ï¥‡å¤/
+usquid:S00116"VRename this field "appear_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°«³8ï¥‡å¤/
+wsquid:S00116/"XRename this field "vehicle_class" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ùçà8ï¥‡å¤/
+rsquid:S00116"TRename this field "mark_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¼†T8ï¥‡å¤/
+…"squid:ClassVariableVisibilityCheck7"PMake code a static final constant or non-public and provide accessors if needed.(½±Ï©8ä˜ú¬¥/
+ysquid:S00116"URename this field "plate_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚŒı©úÿÿÿÿ8ï¥‡å¤/
+rsquid:S00116"SRename this field "plate_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íæÂĞ8ï¥‡å¤/
+zsquid:S00116"VRename this field "scene_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Çîäùÿÿÿÿ8ï¥‡å¤/
+xsquid:S00116+"YRename this field "plate_describe" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¦Èÿ8ï¥‡å¤/
+}squid:S00116-"YRename this field "disappear_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­•ß·ùÿÿÿÿ8ï¥‡å¤/
+Asquid:S30667"#Lower the visibility of this field.(½±Ï©8ä˜ú¬¥/
+vsquid:S00116%"RRename this field "line_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿•ü»ıÿÿÿÿ8ï¥‡å¤/
+rsquid:S00116'"TRename this field "pass_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢³ñ8ï¥‡å¤/
+usquid:S00116)"VRename this field "plate_color" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äôˆÿ8ï¥‡å¤/

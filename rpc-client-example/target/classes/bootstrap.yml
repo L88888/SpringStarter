@@ -1,0 +1,39 @@
+#配置consul信息
+spring:
+  application:
+    name: rpc-client-example
+  cloud:
+    consul:
+      host: 172.20.32.154
+      port: 18500
+      enabled: true
+      discovery:
+        enabled: true
+        register: true
+        acl-token: 524ab129-4dd6-0b89-3de7-21d79332b477
+      config:
+        enabled: true   #默认是true --
+        format: PROPERTIES    # 表示consul上面文件的格式 有四种 YAML PROPERTIES KEY-VALUE FILES
+        data-key: configuration  #表示consul上面的KEY值(或者说文件的名字) 默认是data
+        acl-token: 524ab129-4dd6-0b89-3de7-21d79332b477
+  cache:
+    type: caffeine
+# MyBatis Plus
+mybatis-plus:
+  mapper-locations: classpath*:mapper/**/*Mapper.xml
+  typeAliasesPackage: com.sailing.compute.model.**.entity
+  global-config:
+    # 不显示banner
+    banner: false
+    # 数据库相关配置
+    db-config:
+      #主键类型  AUTO:"数据库ID自增", INPUT:"用户输入ID",ID_WORKER:"全局唯一ID (数字类型唯一ID)", UUID:"全局唯一ID UUID";
+      id-type: UUID
+  #      logic-delete-field: deleted  # 全局逻辑删除的实体字段名(since 3.3.0,配置后可以忽略不配置步骤2)
+  #      logic-delete-value: 1 # 逻辑已删除值(默认为 1)
+  #      logic-not-delete-value: 0 # 逻辑未删除值(默认为 0)
+  configuration:
+    call-setters-on-nulls: true
+logging:
+  level:
+    com.sailing.alarm.model.**.repository: debug

@@ -1,0 +1,16 @@
+
+csquid:S001128"FDefine and throw a dedicated exception instead of using a generic one.(¬€´Œøÿÿÿÿ
+hsquid:S4488h"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¤á—8ã»Å´Á/
+_squid:S1192*"HDefine a constant instead of duplicating this literal "message" 6 times.(ÆÿÏ¼
+zsquid:UselessImportCheck"JRemove this unused import 'com.tgl.example.device.server.DeviceInfoCache'.(ÚÉ±¾ÿÿÿÿÿ8ƒÇñ×Â/
+isquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(óµòˆ8°Û¨Á/
+^squid:S4488%"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¡½¦
+ssquid:S4144H"UUpdate this method so that its implementation is not identical to "check" on line 39.(‚¸üÙ8°Û¨Á/
+fsquid:S4488x"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÊÍÇü8Ö¦øØÂ/
+gsquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(ìŸºËùÿÿÿÿ
+dsquid:S1192)"HDefine a constant instead of duplicating this literal "success" 6 times.(‹ù›îÿÿÿÿÿ
+gsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(ìŸºËùÿÿÿÿ
+usquid:UselessImportCheck"JRemove this unused import 'com.tgl.example.device.server.DeviceBatchInfo'.(šâõ§8ŠõĞİÂ/
+ksquid:S4488U"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÖÚƒùÿÿÿÿ8ã»Å´Á/
+_squid:S44886"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ù´Ÿº
+_squid:S4488F"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Æ‰ı³

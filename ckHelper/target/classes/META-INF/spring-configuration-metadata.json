@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "business.ck",
+      "type": "com.sit.client.config.ClickHouseProperties",
+      "sourceType": "com.sit.client.config.ClickHouseProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "business.ck.endpoint",
+      "type": "java.lang.String",
+      "sourceType": "com.sit.client.config.ClickHouseProperties"
+    },
+    {
+      "name": "business.ck.password",
+      "type": "java.lang.String",
+      "sourceType": "com.sit.client.config.ClickHouseProperties"
+    },
+    {
+      "name": "business.ck.username",
+      "type": "java.lang.String",
+      "sourceType": "com.sit.client.config.ClickHouseProperties"
+    }
+  ],
+  "hints": []
+}

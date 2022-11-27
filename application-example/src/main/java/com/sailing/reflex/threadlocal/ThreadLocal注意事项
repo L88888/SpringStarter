@@ -1,0 +1,26 @@
+
+ThreadLocal注意事项
+1、java中的引用（强引用、软引用、弱引用、虚引用）
+2、ThreadLocal实现原理
+3、内存泄露分析
+4、内存泄露解决办法（主动调用remove方法）
+一、ThreadLocal主要用于存储线程本地变量，解决线程间变量共享导致的线程安全问题
+二、主动调用remove方法来删除对象，避免造成内存泄露
+三、使用static的ThreadLocal延长了ThreadLocal的生命周期，可能会导致内存泄露问题
+四、分配使用了ThreadLocal，又不调用get()、set()、remove()方法，那么就会导致内存泄露，因为这块内存他会一直存在
+五、ThreadLocal默认是值传递，须避免多线程共享同一个对象，否则依旧无法实现对象在线程间的隔离，有线程安全问题
+
+
+并发问题解决
+1、乐观锁  写少读多
+2、悲观锁  读写一视同仁，锁范围比较大
+3、线程本地变量
+
+在子线程及线程池中如何获取父线程的变量？
+答：InheritableThreadLocal对象
+
+TransmittableThreadLocal 解决"在使用线程池等会缓存线程的组件情况下传递ThreadLocal"问题的ITL扩展
+
+InheritableThreadLocal与TransmittableThreadLocal的区别
+答：前者在创建子线程时，复制父线程的本地变量；默认值传递，可以自定义实现TTL实现深拷贝；
+后者在每次创建子线程时，都会拷贝父线程的本地变量；默认值传递，可以自定义实现TTL实现深拷贝；

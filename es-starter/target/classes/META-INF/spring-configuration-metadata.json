@@ -1,0 +1,72 @@
+{
+  "groups": [
+    {
+      "name": "sit.elasticsearch",
+      "type": "com.sailing.commons.data.es.starter.ElasticSearchProperties",
+      "sourceType": "com.sailing.commons.data.es.starter.ElasticSearchProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "sit.elasticsearch.cluster-name",
+      "type": "java.lang.String",
+      "sourceType": "com.sailing.commons.data.es.starter.ElasticSearchProperties",
+      "defaultValue": "elasticsearch"
+    },
+    {
+      "name": "sit.elasticsearch.cluster-nodes",
+      "type": "java.lang.String",
+      "sourceType": "com.sailing.commons.data.es.starter.ElasticSearchProperties",
+      "defaultValue": "127.0.0.1:9300"
+    },
+    {
+      "name": "sit.elasticsearch.connect-time-out",
+      "type": "java.lang.Integer",
+      "sourceType": "com.sailing.commons.data.es.starter.ElasticSearchProperties",
+      "defaultValue": 1000
+    },
+    {
+      "name": "sit.elasticsearch.connection-request-time-out",
+      "type": "java.lang.Integer",
+      "sourceType": "com.sailing.commons.data.es.starter.ElasticSearchProperties",
+      "defaultValue": 500
+    },
+    {
+      "name": "sit.elasticsearch.max-connect-num",
+      "type": "java.lang.Integer",
+      "sourceType": "com.sailing.commons.data.es.starter.ElasticSearchProperties",
+      "defaultValue": 30
+    },
+    {
+      "name": "sit.elasticsearch.max-connect-per-route",
+      "type": "java.lang.Integer",
+      "sourceType": "com.sailing.commons.data.es.starter.ElasticSearchProperties",
+      "defaultValue": 10
+    },
+    {
+      "name": "sit.elasticsearch.password",
+      "type": "java.lang.String",
+      "sourceType": "com.sailing.commons.data.es.starter.ElasticSearchProperties",
+      "defaultValue": "changeme"
+    },
+    {
+      "name": "sit.elasticsearch.schema",
+      "type": "java.lang.String",
+      "sourceType": "com.sailing.commons.data.es.starter.ElasticSearchProperties",
+      "defaultValue": "http"
+    },
+    {
+      "name": "sit.elasticsearch.socket-time-out",
+      "type": "java.lang.Integer",
+      "sourceType": "com.sailing.commons.data.es.starter.ElasticSearchProperties",
+      "defaultValue": 30000
+    },
+    {
+      "name": "sit.elasticsearch.user-name",
+      "type": "java.lang.String",
+      "sourceType": "com.sailing.commons.data.es.starter.ElasticSearchProperties",
+      "defaultValue": "elastic"
+    }
+  ],
+  "hints": []
+}
